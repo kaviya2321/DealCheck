@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    scroll-behavior: smooth;
+  }
+}
+
+/* Custom interactive highlight styles */
+.highlight-pill {
+  @apply relative inline-block px-1 py-0.5 rounded cursor-pointer transition-all duration-150;
+}
+
+.highlight-pill-risk {
+  @apply bg-red-100 text-red-900 border border-red-300 dark:bg-red-950/60 dark:text-red-200 dark:border-red-800 font-medium;
+}
+
+.highlight-pill-risk:hover {
+  @apply bg-red-200 dark:bg-red-900 shadow-sm;
+}
+
+/* Touch targets >= 44px on mobile */
+@media (max-width: 640px) {
+  button, a, input[type="button"], input[type="submit"] {
+    min-height: 44px;
+    min-width: 44px;
+  }
+}

@@ -1,0 +1,2251 @@
+text,label,class_name
+"No PayPal, cash only when we meet at the mall. Cool.",1,refuses_protected
+I decline PayPal. Bank deposit or physical cash only.,1,refuses_protected
+"Strictly local pickup with cash. No shipping, no links. Let me know.",1,refuses_protected
+"That sounds great, I'm happy to use G&S protection.",0,accepts_protected
+No Goods & Services. Send as friend or find another seller. Let me know.,2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link....,0,accepts_protected
+"Goods & Services is good with me, I will pack it right now. Thanks.",0,accepts_protected
+I don't use PayPal or any online apps. bro,1,refuses_protected
+"I do not do payment links, strictly cash at exchange. Thanks.",1,refuses_protected
+Send it through PayPal friends option otherwise I cancel.,2,pushes_friends_and_family
+No online transfers. Cash when we meet in person. Cool.,1,refuses_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket....,2,pushes_friends_and_family
+"No, in-person cash only. Too many scams online. buddy",1,refuses_protected
+"I do not do payment links, strictly cash at exchange. bro",1,refuses_protected
+"No, send it as Friends and Family so we avoid fees. buddy",2,pushes_friends_and_family
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. Cool.",2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup. buddy,1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked....,2,pushes_friends_and_family
+"No, send it as Friends and Family so we avoid fees....",2,pushes_friends_and_family
+"Sorry, had too many issues with PayPal chargebacks, cash only. ok?",1,refuses_protected
+I don't use PayPal or any online apps.!,1,refuses_protected
+No cards or online links. Physical cash only upon meetup. bro,1,refuses_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today.!",0,accepts_protected
+I only take payment as Friends and Family. Business payments get locked.!,2,pushes_friends_and_family
+"I do not do payment links, strictly cash at exchange. Let me know.",1,refuses_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao....",1,refuses_protected
+That's safe for both of us. Please share the payment link. ok?,0,accepts_protected
+I only do face to face cash deals. thanks,1,refuses_protected
+I don't use PayPal or any online apps. Thanks.,1,refuses_protected
+I don't have PayPal configured. Cash only please. ok?,1,refuses_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. Cool.,0,accepts_protected
+I only take payment as Friends and Family. Business payments get locked.,2,pushes_friends_and_family
+"F&F only bro, I am selling as an individual and don't want business tax deductions. Thanks.",2,pushes_friends_and_family
+Friends & Family only please. Otherwise the fee comes out of my pocket. thanks,2,pushes_friends_and_family
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. ok?",2,pushes_friends_and_family
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. thanks",0,accepts_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready.!",0,accepts_protected
+No cards or online links. Physical cash only upon meetup. bro,1,refuses_protected
+Select friends and family option on PayPal or I will refund immediately. bro,2,pushes_friends_and_family
+"No, send it as Friends and Family so we avoid fees. ok?",2,pushes_friends_and_family
+Send it through PayPal friends option otherwise I cancel. bro,2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup. please,1,refuses_protected
+"Strictly local pickup with cash. No shipping, no links. thanks",1,refuses_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. thanks",2,pushes_friends_and_family
+"No, in-person cash only. Too many scams online. buddy",1,refuses_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. please",1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after. thanks,2,pushes_friends_and_family
+"Don't send as G&S, send personal transfer so no fees apply.!",2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment. bro",0,accepts_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal. Let me know.",0,accepts_protected
+Sounds fair. Send the checkout link and I will prepare the package. bro,0,accepts_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days.,2,pushes_friends_and_family
+"F&F only bro, I am selling as an individual and don't want business tax deductions.!",2,pushes_friends_and_family
+Select friends and family option on PayPal or I will refund immediately. please,2,pushes_friends_and_family
+No online transfers. Cash when we meet in person....,1,refuses_protected
+"I accept PayPal G&S, go ahead and send the payment. please",0,accepts_protected
+"I do not do payment links, strictly cash at exchange. Cool.",1,refuses_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it.!",0,accepts_protected
+Cash in person only. No online payments....,1,refuses_protected
+"Sure, send the PayPal link and I'll confirm receipt. thanks",0,accepts_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon.!",0,accepts_protected
+"Make sure you tick Friends & Family when sending, not Goods.!",2,pushes_friends_and_family
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe. please",2,pushes_friends_and_family
+"Yeah that's totally fine, buyer protection is important. thanks",0,accepts_protected
+"Why send as goods? Just choose family and friends, I have high ratings. Let me know.",2,pushes_friends_and_family
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe.",2,pushes_friends_and_family
+Works for me. Send the link across! please,0,accepts_protected
+I don't accept Goods & Services. buddy,1,refuses_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. buddy",0,accepts_protected
+"Yeah that's totally fine, buyer protection is important. bro",0,accepts_protected
+"Pick up and cash only, take it or leave it.!",1,refuses_protected
+"Okay, let's do it via PayPal Goods. Drop the link here.!",0,accepts_protected
+"No, send it as Friends and Family so we avoid fees. Thanks.",2,pushes_friends_and_family
+"Sure, send the PayPal link and I'll confirm receipt. thanks",0,accepts_protected
+That's safe for both of us. Please share the payment link. Let me know.,0,accepts_protected
+No PayPal. Cash only.!,1,refuses_protected
+"Yes, PayPal Goods and Services works for me. Thanks.",0,accepts_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. thanks",2,pushes_friends_and_family
+F&F only! I don't do Goods and Services. ok?,2,pushes_friends_and_family
+"Nahi bhai online payment nahi chalega, cash only aake le jao. buddy",1,refuses_protected
+No Goods & Services. Send as friend or find another seller. ok?,2,pushes_friends_and_family
+No Goods & Services. Send as friend or find another seller. bro,2,pushes_friends_and_family
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. ok?",2,pushes_friends_and_family
+Use F and F option on PayPal so neither of us pays unnecessary fees....,2,pushes_friends_and_family
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. buddy",1,refuses_protected
+I don't accept Goods & Services....,1,refuses_protected
+F&F only! I don't do Goods and Services. Thanks.,2,pushes_friends_and_family
+Send it through PayPal friends option otherwise I cancel.!,2,pushes_friends_and_family
+"I do not do payment links, strictly cash at exchange....",1,refuses_protected
+"I won't accept Goods and Services, send through Friends & Family. buddy",2,pushes_friends_and_family
+"No PayPal, cash only when we meet at the mall. Cool.",1,refuses_protected
+F&F only! I don't do Goods and Services. Thanks.,2,pushes_friends_and_family
+"Goods & Services is good with me, I will pack it right now. Thanks.",0,accepts_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today. please",0,accepts_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today.",0,accepts_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today. bro",0,accepts_protected
+"No PayPal, cash only when we meet at the mall. bro",1,refuses_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. bro",0,accepts_protected
+"Why send as goods? Just choose family and friends, I have high ratings. ok?",2,pushes_friends_and_family
+"Pick up and cash only, take it or leave it. ok?",1,refuses_protected
+Select friends and family option on PayPal or I will refund immediately.,2,pushes_friends_and_family
+"Goods & Services is good with me, I will pack it right now. Cool.",0,accepts_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. Cool.,0,accepts_protected
+"I accept PayPal G&S, go ahead and send the payment. thanks",0,accepts_protected
+"No, send it as Friends and Family so we avoid fees. Cool.",2,pushes_friends_and_family
+"Make sure you tick Friends & Family when sending, not Goods.",2,pushes_friends_and_family
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo....",1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after. please,2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment. please",0,accepts_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon.!",0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it.!",0,accepts_protected
+I only do face to face cash deals. Cool.,1,refuses_protected
+"No PayPal, cash only when we meet at the mall. Thanks.",1,refuses_protected
+"No, send it as Friends and Family so we avoid fees.!",2,pushes_friends_and_family
+Select friends and family option on PayPal or I will refund immediately. Thanks.,2,pushes_friends_and_family
+Sounds fair. Send the checkout link and I will prepare the package. Thanks.,0,accepts_protected
+"Make sure you tick Friends & Family when sending, not Goods. Let me know.",2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup. please,1,refuses_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. ok?,0,accepts_protected
+No cards or online links. Physical cash only upon meetup....,1,refuses_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. Let me know.",2,pushes_friends_and_family
+"Please select 'Sending to a friend / Friends and Family', not paying for goods.",2,pushes_friends_and_family
+I only do face to face cash deals. bro,1,refuses_protected
+"I accept PayPal G&S, go ahead and send the payment. ok?",0,accepts_protected
+I don't have PayPal configured. Cash only please. Thanks.,1,refuses_protected
+No PayPal. Cash only. thanks,1,refuses_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees....,2,pushes_friends_and_family
+"I won't accept Goods and Services, send through Friends & Family. thanks",2,pushes_friends_and_family
+I don't have PayPal configured. Cash only please. Cool.,1,refuses_protected
+No PayPal. Cash only. please,1,refuses_protected
+I don't have PayPal configured. Cash only please. thanks,1,refuses_protected
+"Don't send as G&S, send personal transfer so no fees apply....",2,pushes_friends_and_family
+I decline PayPal. Bank deposit or physical cash only. ok?,1,refuses_protected
+"Yeah that's totally fine, buyer protection is important. thanks",0,accepts_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. buddy",2,pushes_friends_and_family
+Got it. Send the PayPal checkout link and I'll notify you once cleared. Let me know.,0,accepts_protected
+"Yeah that's totally fine, buyer protection is important....",0,accepts_protected
+"No, send it as Friends and Family so we avoid fees.",2,pushes_friends_and_family
+Select friends and family option on PayPal or I will refund immediately. Thanks.,2,pushes_friends_and_family
+No Goods & Services. Send as friend or find another seller. Let me know.,2,pushes_friends_and_family
+I don't do online checkout. Cash upon collection only.,1,refuses_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. Cool.",0,accepts_protected
+Select friends and family option on PayPal or I will refund immediately....,2,pushes_friends_and_family
+Send via F&F or the deal is off. please,2,pushes_friends_and_family
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo.",1,refuses_protected
+"Make sure you tick Friends & Family when sending, not Goods.!",2,pushes_friends_and_family
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it....",0,accepts_protected
+"Make sure you tick Friends & Family when sending, not Goods....",2,pushes_friends_and_family
+"Pick up and cash only, take it or leave it. Cool.",1,refuses_protected
+"Strictly local pickup with cash. No shipping, no links. thanks",1,refuses_protected
+Approved! Send me the official link and I'll get it ready for dispatch. Cool.,0,accepts_protected
+Select friends and family option on PayPal or I will refund immediately. Thanks.,2,pushes_friends_and_family
+Use F and F option on PayPal so neither of us pays unnecessary fees.,2,pushes_friends_and_family
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. Thanks.",2,pushes_friends_and_family
+"That sounds great, I'm happy to use G&S protection.!",0,accepts_protected
+Only friends and family transfer accepted. I'm shipping right after.,2,pushes_friends_and_family
+Use F and F option on PayPal so neither of us pays unnecessary fees.,2,pushes_friends_and_family
+"I do not do payment links, strictly cash at exchange. buddy",1,refuses_protected
+No Goods & Services. Send as friend or find another seller. buddy,2,pushes_friends_and_family
+"No, send it as Friends and Family so we avoid fees. bro",2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup. please,1,refuses_protected
+F&F or no deal. I'm not giving 4% to PayPal. Thanks.,2,pushes_friends_and_family
+Sounds fair. Send the checkout link and I will prepare the package.!,0,accepts_protected
+"Sure thing, please send the invoice or checkout link....",0,accepts_protected
+"Strictly local pickup with cash. No shipping, no links.",1,refuses_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. ok?",1,refuses_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon.",0,accepts_protected
+No online transfers. Cash when we meet in person. please,1,refuses_protected
+"Cash only on pickup mate, no digital payments.",1,refuses_protected
+Select friends and family option on PayPal or I will refund immediately. thanks,2,pushes_friends_and_family
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. thanks",0,accepts_protected
+I don't accept Goods & Services.,1,refuses_protected
+"Yes, PayPal Goods and Services works for me. please",0,accepts_protected
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe. Thanks.",2,pushes_friends_and_family
+"Sure thing, please send the invoice or checkout link.",0,accepts_protected
+"Yes, PayPal Goods and Services works for me....",0,accepts_protected
+No cards or online links. Physical cash only upon meetup. bro,1,refuses_protected
+I don't have PayPal configured. Cash only please. ok?,1,refuses_protected
+"Goods & Services is good with me, I will pack it right now....",0,accepts_protected
+Send via F&F or the deal is off. buddy,2,pushes_friends_and_family
+Use F and F option on PayPal so neither of us pays unnecessary fees. Thanks.,2,pushes_friends_and_family
+"Goods & Services is good with me, I will pack it right now. buddy",0,accepts_protected
+I don't use PayPal or any online apps. Cool.,1,refuses_protected
+"Pick up and cash only, take it or leave it.!",1,refuses_protected
+"Yeah that's totally fine, buyer protection is important. please",0,accepts_protected
+I decline PayPal. Bank deposit or physical cash only....,1,refuses_protected
+"Sure thing, please send the invoice or checkout link. Cool.",0,accepts_protected
+I decline PayPal. Bank deposit or physical cash only. please,1,refuses_protected
+I don't accept Goods & Services.,1,refuses_protected
+"I won't accept Goods and Services, send through Friends & Family.!",2,pushes_friends_and_family
+Use F and F option on PayPal so neither of us pays unnecessary fees. ok?,2,pushes_friends_and_family
+"Okay, let's do it via PayPal Goods. Drop the link here.",0,accepts_protected
+"I do not do payment links, strictly cash at exchange. Cool.",1,refuses_protected
+"That sounds great, I'm happy to use G&S protection. please",0,accepts_protected
+"No problem at all, I'll ship with tracking once paid. Let me know.",0,accepts_protected
+No cards or online links. Physical cash only upon meetup.!,1,refuses_protected
+"No, send it as Friends and Family so we avoid fees....",2,pushes_friends_and_family
+Sounds fair. Send the checkout link and I will prepare the package. Let me know.,0,accepts_protected
+"Goods & Services is good with me, I will pack it right now. bro",0,accepts_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. Let me know.",0,accepts_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. please",0,accepts_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. buddy,0,accepts_protected
+"That sounds great, I'm happy to use G&S protection....",0,accepts_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega.!",2,pushes_friends_and_family
+Use F and F option on PayPal so neither of us pays unnecessary fees. ok?,2,pushes_friends_and_family
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo....",1,refuses_protected
+"That sounds great, I'm happy to use G&S protection. Thanks.",0,accepts_protected
+"Make sure you tick Friends & Family when sending, not Goods. ok?",2,pushes_friends_and_family
+"Yes, PayPal Goods and Services works for me. please",0,accepts_protected
+"Strictly local pickup with cash. No shipping, no links. thanks",1,refuses_protected
+Send via F&F or the deal is off. ok?,2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today.!",0,accepts_protected
+"Cash only on pickup mate, no digital payments. Thanks.",1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after. Thanks.,2,pushes_friends_and_family
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. please",0,accepts_protected
+Select friends and family option on PayPal or I will refund immediately.!,2,pushes_friends_and_family
+"I won't accept Goods and Services, send through Friends & Family. Let me know.",2,pushes_friends_and_family
+"Yeah that's totally fine, buyer protection is important. please",0,accepts_protected
+"Cash only on pickup mate, no digital payments. ok?",1,refuses_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. please,2,pushes_friends_and_family
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. thanks",0,accepts_protected
+"No problem at all, I'll ship with tracking once paid....",0,accepts_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees. ok?,2,pushes_friends_and_family
+"Cash only on pickup mate, no digital payments. please",1,refuses_protected
+"No problem at all, I'll ship with tracking once paid....",0,accepts_protected
+"I won't accept Goods and Services, send through Friends & Family. ok?",2,pushes_friends_and_family
+Friends & Family only please. Otherwise the fee comes out of my pocket.!,2,pushes_friends_and_family
+"No, send it as Friends and Family so we avoid fees.!",2,pushes_friends_and_family
+Friends & Family only please. Otherwise the fee comes out of my pocket. bro,2,pushes_friends_and_family
+Friends & Family only please. Otherwise the fee comes out of my pocket. please,2,pushes_friends_and_family
+Use F and F option on PayPal so neither of us pays unnecessary fees.!,2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment. please",0,accepts_protected
+Send it through PayPal friends option otherwise I cancel. Let me know.,2,pushes_friends_and_family
+"No problem at all, I'll ship with tracking once paid. please",0,accepts_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. ok?",2,pushes_friends_and_family
+"Make sure you tick Friends & Family when sending, not Goods. Cool.",2,pushes_friends_and_family
+Send via F&F or the deal is off. ok?,2,pushes_friends_and_family
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. buddy,2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today. bro",0,accepts_protected
+Select friends and family option on PayPal or I will refund immediately. bro,2,pushes_friends_and_family
+"Why send as goods? Just choose family and friends, I have high ratings. thanks",2,pushes_friends_and_family
+"Not interested in PayPal. If you can't pay cash in person, no deal....",1,refuses_protected
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe. please",2,pushes_friends_and_family
+"Why send as goods? Just choose family and friends, I have high ratings. Let me know.",2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today. thanks",0,accepts_protected
+"No problem at all, I'll ship with tracking once paid. thanks",0,accepts_protected
+I don't use PayPal or any online apps.!,1,refuses_protected
+"Sure thing, please send the invoice or checkout link....",0,accepts_protected
+No cards or online links. Physical cash only upon meetup. Let me know.,1,refuses_protected
+"Pick up and cash only, take it or leave it. Cool.",1,refuses_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees. Thanks.,2,pushes_friends_and_family
+Send via F&F or the deal is off. Let me know.,2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link. buddy,0,accepts_protected
+I decline PayPal. Bank deposit or physical cash only. Cool.,1,refuses_protected
+"I do not do payment links, strictly cash at exchange. Cool.",1,refuses_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. please",0,accepts_protected
+"No problem at all, I'll ship with tracking once paid. Cool.",0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. ok?",1,refuses_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. bro,0,accepts_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. ok?",2,pushes_friends_and_family
+"I won't accept Goods and Services, send through Friends & Family. thanks",2,pushes_friends_and_family
+"Make sure you tick Friends & Family when sending, not Goods. thanks",2,pushes_friends_and_family
+"No, in-person cash only. Too many scams online. thanks",1,refuses_protected
+"Goods & Services is good with me, I will pack it right now. thanks",0,accepts_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal. bro",0,accepts_protected
+Works for me. Send the link across! please,0,accepts_protected
+Works for me. Send the link across! bro,0,accepts_protected
+"Make sure you tick Friends & Family when sending, not Goods. bro",2,pushes_friends_and_family
+F&F only! I don't do Goods and Services....,2,pushes_friends_and_family
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days....,2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link.,0,accepts_protected
+Select friends and family option on PayPal or I will refund immediately....,2,pushes_friends_and_family
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe.",2,pushes_friends_and_family
+"No, send it as Friends and Family so we avoid fees. buddy",2,pushes_friends_and_family
+Works for me. Send the link across! thanks,0,accepts_protected
+I don't have PayPal configured. Cash only please. Let me know.,1,refuses_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. Cool.",1,refuses_protected
+"I accept PayPal G&S, go ahead and send the payment. Cool.",0,accepts_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. ok?",0,accepts_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today. please",0,accepts_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. Cool.",0,accepts_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. Thanks.",0,accepts_protected
+No cards or online links. Physical cash only upon meetup. thanks,1,refuses_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today.!",0,accepts_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. buddy",2,pushes_friends_and_family
+Got it. Send the PayPal checkout link and I'll notify you once cleared. ok?,0,accepts_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. ok?",1,refuses_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. bro",2,pushes_friends_and_family
+I'm completely fine with Goods and Services. Send it over. ok?,0,accepts_protected
+"No, send it as Friends and Family so we avoid fees.!",2,pushes_friends_and_family
+"No problem at all, I'll ship with tracking once paid. thanks",0,accepts_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. Let me know.",0,accepts_protected
+I only take payment as Friends and Family. Business payments get locked. please,2,pushes_friends_and_family
+I don't have PayPal configured. Cash only please.,1,refuses_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days.!,2,pushes_friends_and_family
+Use F and F option on PayPal so neither of us pays unnecessary fees. thanks,2,pushes_friends_and_family
+I'm completely fine with Goods and Services. Send it over. Let me know.,0,accepts_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. Let me know.",1,refuses_protected
+Approved! Send me the official link and I'll get it ready for dispatch....,0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. ok?",1,refuses_protected
+"Sure thing, please send the invoice or checkout link. ok?",0,accepts_protected
+"No, send it as Friends and Family so we avoid fees.!",2,pushes_friends_and_family
+"Make sure you tick Friends & Family when sending, not Goods. thanks",2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup. please,1,refuses_protected
+Approved! Send me the official link and I'll get it ready for dispatch....,0,accepts_protected
+"Cash only on pickup mate, no digital payments....",1,refuses_protected
+"That sounds great, I'm happy to use G&S protection. please",0,accepts_protected
+"No problem at all, I'll ship with tracking once paid. Cool.",0,accepts_protected
+"Cash only on pickup mate, no digital payments. ok?",1,refuses_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket. buddy,2,pushes_friends_and_family
+No PayPal. Cash only. ok?,1,refuses_protected
+No Goods & Services. Send as friend or find another seller. ok?,2,pushes_friends_and_family
+"Goods & Services is good with me, I will pack it right now. ok?",0,accepts_protected
+I decline PayPal. Bank deposit or physical cash only....,1,refuses_protected
+"That sounds great, I'm happy to use G&S protection. buddy",0,accepts_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. bro,0,accepts_protected
+I don't accept Goods & Services. Let me know.,1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after.!,2,pushes_friends_and_family
+"No PayPal, cash only when we meet at the mall....",1,refuses_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. bro,2,pushes_friends_and_family
+I don't use PayPal or any online apps. please,1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after. thanks,2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link. Cool.,0,accepts_protected
+No PayPal. Cash only. bro,1,refuses_protected
+"Why send as goods? Just choose family and friends, I have high ratings. thanks",2,pushes_friends_and_family
+I decline PayPal. Bank deposit or physical cash only....,1,refuses_protected
+Cash in person only. No online payments. bro,1,refuses_protected
+I don't have PayPal configured. Cash only please. Cool.,1,refuses_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. Thanks.",0,accepts_protected
+No Goods & Services. Send as friend or find another seller.!,2,pushes_friends_and_family
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. Thanks.",1,refuses_protected
+"No, in-person cash only. Too many scams online....",1,refuses_protected
+"Goods & Services is good with me, I will pack it right now. Thanks.",0,accepts_protected
+"Strictly local pickup with cash. No shipping, no links.!",1,refuses_protected
+No Goods & Services. Send as friend or find another seller. please,2,pushes_friends_and_family
+"I do not do payment links, strictly cash at exchange. Thanks.",1,refuses_protected
+"I accept PayPal G&S, go ahead and send the payment. bro",0,accepts_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. Thanks.",2,pushes_friends_and_family
+Only friends and family transfer accepted. I'm shipping right after. thanks,2,pushes_friends_and_family
+"Chalega, Goods and Services kar do, tracking de dunga kal. please",0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it.",0,accepts_protected
+Works for me. Send the link across!!,0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. buddy",0,accepts_protected
+I decline PayPal. Bank deposit or physical cash only. ok?,1,refuses_protected
+F&F or no deal. I'm not giving 4% to PayPal. Thanks.,2,pushes_friends_and_family
+Friends & Family only please. Otherwise the fee comes out of my pocket. please,2,pushes_friends_and_family
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. Cool.",0,accepts_protected
+"Okay, let's do it via PayPal Goods. Drop the link here.!",0,accepts_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today. ok?",0,accepts_protected
+"That sounds great, I'm happy to use G&S protection.!",0,accepts_protected
+"No, in-person cash only. Too many scams online. bro",1,refuses_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. Let me know.",2,pushes_friends_and_family
+I decline PayPal. Bank deposit or physical cash only. bro,1,refuses_protected
+"Don't send as G&S, send personal transfer so no fees apply. buddy",2,pushes_friends_and_family
+"Sorry, had too many issues with PayPal chargebacks, cash only. bro",1,refuses_protected
+"No, send it as Friends and Family so we avoid fees.",2,pushes_friends_and_family
+No PayPal. Cash only. thanks,1,refuses_protected
+Works for me. Send the link across! please,0,accepts_protected
+I'm completely fine with Goods and Services. Send it over. Cool.,0,accepts_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. bro",2,pushes_friends_and_family
+F&F only! I don't do Goods and Services. Thanks.,2,pushes_friends_and_family
+"No problem at all, I'll ship with tracking once paid. Cool.",0,accepts_protected
+"That sounds great, I'm happy to use G&S protection. bro",0,accepts_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. ok?,0,accepts_protected
+I don't use PayPal or any online apps. please,1,refuses_protected
+"Cash only on pickup mate, no digital payments.!",1,refuses_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. thanks",0,accepts_protected
+I only do face to face cash deals....,1,refuses_protected
+"Why send as goods? Just choose family and friends, I have high ratings. Thanks.",2,pushes_friends_and_family
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. bro",0,accepts_protected
+F&F only! I don't do Goods and Services. ok?,2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today. please",0,accepts_protected
+No cards or online links. Physical cash only upon meetup. ok?,1,refuses_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. buddy",1,refuses_protected
+I decline PayPal. Bank deposit or physical cash only. please,1,refuses_protected
+No cards or online links. Physical cash only upon meetup. please,1,refuses_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. Cool.",0,accepts_protected
+Cash in person only. No online payments. Cool.,1,refuses_protected
+"That sounds great, I'm happy to use G&S protection. ok?",0,accepts_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. please,0,accepts_protected
+"Make sure you tick Friends & Family when sending, not Goods. Thanks.",2,pushes_friends_and_family
+"Yes, PayPal Goods and Services works for me. bro",0,accepts_protected
+I don't accept Goods & Services. Let me know.,1,refuses_protected
+"That sounds great, I'm happy to use G&S protection. Cool.",0,accepts_protected
+"Sure, send the PayPal link and I'll confirm receipt. Cool.",0,accepts_protected
+"Sure, send the PayPal link and I'll confirm receipt. thanks",0,accepts_protected
+"Goods & Services is good with me, I will pack it right now. bro",0,accepts_protected
+Send it through PayPal friends option otherwise I cancel. Thanks.,2,pushes_friends_and_family
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. Cool.",0,accepts_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. Thanks.",2,pushes_friends_and_family
+"Pick up and cash only, take it or leave it. please",1,refuses_protected
+Works for me. Send the link across! bro,0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. Cool.",0,accepts_protected
+"Sure, send the PayPal link and I'll confirm receipt. Thanks.",0,accepts_protected
+"Pick up and cash only, take it or leave it.",1,refuses_protected
+Works for me. Send the link across! thanks,0,accepts_protected
+"Don't send as G&S, send personal transfer so no fees apply. please",2,pushes_friends_and_family
+I don't have PayPal configured. Cash only please. Let me know.,1,refuses_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today. Let me know.",0,accepts_protected
+"I won't accept Goods and Services, send through Friends & Family. ok?",2,pushes_friends_and_family
+I don't have PayPal configured. Cash only please. bro,1,refuses_protected
+"I do not do payment links, strictly cash at exchange. ok?",1,refuses_protected
+"No PayPal, cash only when we meet at the mall. thanks",1,refuses_protected
+"No PayPal, cash only when we meet at the mall.",1,refuses_protected
+I don't use PayPal or any online apps. thanks,1,refuses_protected
+"I accept PayPal G&S, go ahead and send the payment. Cool.",0,accepts_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only.",1,refuses_protected
+Send it through PayPal friends option otherwise I cancel. ok?,2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup. Thanks.,1,refuses_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo.",1,refuses_protected
+Works for me. Send the link across! please,0,accepts_protected
+Send via F&F or the deal is off. buddy,2,pushes_friends_and_family
+"No PayPal, cash only when we meet at the mall. bro",1,refuses_protected
+"Sure, send the PayPal link and I'll confirm receipt.",0,accepts_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. Let me know.",1,refuses_protected
+No PayPal. Cash only....,1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after.,2,pushes_friends_and_family
+"Strictly local pickup with cash. No shipping, no links.!",1,refuses_protected
+"No, send it as Friends and Family so we avoid fees. buddy",2,pushes_friends_and_family
+I only do face to face cash deals. thanks,1,refuses_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal.",0,accepts_protected
+I don't do online checkout. Cash upon collection only.,1,refuses_protected
+"I won't accept Goods and Services, send through Friends & Family. bro",2,pushes_friends_and_family
+"Sure thing, please send the invoice or checkout link. bro",0,accepts_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. please",1,refuses_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only.",1,refuses_protected
+Send via F&F or the deal is off....,2,pushes_friends_and_family
+"Pick up and cash only, take it or leave it. ok?",1,refuses_protected
+"Goods & Services is good with me, I will pack it right now. Cool.",0,accepts_protected
+Sounds fair. Send the checkout link and I will prepare the package. bro,0,accepts_protected
+"I won't accept Goods and Services, send through Friends & Family....",2,pushes_friends_and_family
+Works for me. Send the link across!!,0,accepts_protected
+I don't have PayPal configured. Cash only please.,1,refuses_protected
+"Don't send as G&S, send personal transfer so no fees apply. buddy",2,pushes_friends_and_family
+Works for me. Send the link across! Thanks.,0,accepts_protected
+"No problem at all, I'll ship with tracking once paid.!",0,accepts_protected
+I'm completely fine with Goods and Services. Send it over. ok?,0,accepts_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket. thanks,2,pushes_friends_and_family
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. Let me know.",2,pushes_friends_and_family
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe. thanks",2,pushes_friends_and_family
+"Why send as goods? Just choose family and friends, I have high ratings. thanks",2,pushes_friends_and_family
+"I do not do payment links, strictly cash at exchange. bro",1,refuses_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. Let me know.",1,refuses_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days....,2,pushes_friends_and_family
+Approved! Send me the official link and I'll get it ready for dispatch. please,0,accepts_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready....",0,accepts_protected
+I decline PayPal. Bank deposit or physical cash only.!,1,refuses_protected
+Select friends and family option on PayPal or I will refund immediately. Cool.,2,pushes_friends_and_family
+"No, in-person cash only. Too many scams online. please",1,refuses_protected
+"Yes, PayPal Goods and Services works for me. bro",0,accepts_protected
+No online transfers. Cash when we meet in person.!,1,refuses_protected
+Send it through PayPal friends option otherwise I cancel.,2,pushes_friends_and_family
+"Chalega, Goods and Services kar do, tracking de dunga kal. thanks",0,accepts_protected
+I don't do online checkout. Cash upon collection only. buddy,1,refuses_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket.!,2,pushes_friends_and_family
+Select friends and family option on PayPal or I will refund immediately. Let me know.,2,pushes_friends_and_family
+"No, send it as Friends and Family so we avoid fees. Cool.",2,pushes_friends_and_family
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. please,2,pushes_friends_and_family
+I only do face to face cash deals. please,1,refuses_protected
+I don't have PayPal configured. Cash only please....,1,refuses_protected
+That's safe for both of us. Please share the payment link. Let me know.,0,accepts_protected
+"No PayPal, cash only when we meet at the mall. Let me know.",1,refuses_protected
+I don't have PayPal configured. Cash only please. bro,1,refuses_protected
+Cash in person only. No online payments. Cool.,1,refuses_protected
+"That sounds great, I'm happy to use G&S protection. Cool.",0,accepts_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. ok?",2,pushes_friends_and_family
+"Strictly local pickup with cash. No shipping, no links.",1,refuses_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. Thanks.",0,accepts_protected
+"I do not do payment links, strictly cash at exchange. Let me know.",1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked. bro,2,pushes_friends_and_family
+Only friends and family transfer accepted. I'm shipping right after. thanks,2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today. thanks",0,accepts_protected
+"Yes, PayPal Goods and Services works for me. ok?",0,accepts_protected
+I'm completely fine with Goods and Services. Send it over. thanks,0,accepts_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. buddy",0,accepts_protected
+I only do face to face cash deals. Cool.,1,refuses_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal.",1,refuses_protected
+I don't accept Goods & Services. ok?,1,refuses_protected
+"Make sure you tick Friends & Family when sending, not Goods.",2,pushes_friends_and_family
+"Okay, let's do it via PayPal Goods. Drop the link here. Let me know.",0,accepts_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. Let me know.",0,accepts_protected
+"That sounds great, I'm happy to use G&S protection. buddy",0,accepts_protected
+No online transfers. Cash when we meet in person. thanks,1,refuses_protected
+No cards or online links. Physical cash only upon meetup. Let me know.,1,refuses_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. ok?",1,refuses_protected
+I don't accept Goods & Services. buddy,1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after. thanks,2,pushes_friends_and_family
+"Sure thing, please send the invoice or checkout link....",0,accepts_protected
+"Cash only on pickup mate, no digital payments. buddy",1,refuses_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. Thanks.",1,refuses_protected
+"Don't send as G&S, send personal transfer so no fees apply. please",2,pushes_friends_and_family
+I don't use PayPal or any online apps. bro,1,refuses_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. bro,2,pushes_friends_and_family
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe.",2,pushes_friends_and_family
+"I won't accept Goods and Services, send through Friends & Family.!",2,pushes_friends_and_family
+"Okay, let's do it via PayPal Goods. Drop the link here. please",0,accepts_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. buddy",1,refuses_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. ok?",0,accepts_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal.",0,accepts_protected
+"Cash only on pickup mate, no digital payments....",1,refuses_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. Cool.",2,pushes_friends_and_family
+Approved! Send me the official link and I'll get it ready for dispatch. buddy,0,accepts_protected
+I decline PayPal. Bank deposit or physical cash only.,1,refuses_protected
+No cards or online links. Physical cash only upon meetup. please,1,refuses_protected
+"Strictly local pickup with cash. No shipping, no links. bro",1,refuses_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket. ok?,2,pushes_friends_and_family
+Got it. Send the PayPal checkout link and I'll notify you once cleared. Cool.,0,accepts_protected
+"That sounds great, I'm happy to use G&S protection.",0,accepts_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. Thanks.,0,accepts_protected
+Approved! Send me the official link and I'll get it ready for dispatch.,0,accepts_protected
+"No PayPal, cash only when we meet at the mall. please",1,refuses_protected
+I don't have PayPal configured. Cash only please. Let me know.,1,refuses_protected
+"Strictly local pickup with cash. No shipping, no links. Let me know.",1,refuses_protected
+F&F or no deal. I'm not giving 4% to PayPal. buddy,2,pushes_friends_and_family
+"Okay, let's do it via PayPal Goods. Drop the link here. Cool.",0,accepts_protected
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe....",2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment. please",0,accepts_protected
+"No PayPal, cash only when we meet at the mall. bro",1,refuses_protected
+"I do not do payment links, strictly cash at exchange. Let me know.",1,refuses_protected
+I don't accept Goods & Services. Thanks.,1,refuses_protected
+I decline PayPal. Bank deposit or physical cash only. Thanks.,1,refuses_protected
+Select friends and family option on PayPal or I will refund immediately. Let me know.,2,pushes_friends_and_family
+F&F or no deal. I'm not giving 4% to PayPal. Thanks.,2,pushes_friends_and_family
+"Make sure you tick Friends & Family when sending, not Goods. Let me know.",2,pushes_friends_and_family
+Only friends and family transfer accepted. I'm shipping right after. Let me know.,2,pushes_friends_and_family
+I only take payment as Friends and Family. Business payments get locked. bro,2,pushes_friends_and_family
+Friends & Family only please. Otherwise the fee comes out of my pocket. Cool.,2,pushes_friends_and_family
+I only take payment as Friends and Family. Business payments get locked. buddy,2,pushes_friends_and_family
+F&F only! I don't do Goods and Services. Cool.,2,pushes_friends_and_family
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days.!,2,pushes_friends_and_family
+I don't use PayPal or any online apps. bro,1,refuses_protected
+"No problem at all, I'll ship with tracking once paid. ok?",0,accepts_protected
+"I accept PayPal G&S, go ahead and send the payment.!",0,accepts_protected
+"No, send it as Friends and Family so we avoid fees....",2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link.!,0,accepts_protected
+No online transfers. Cash when we meet in person. Let me know.,1,refuses_protected
+Select friends and family option on PayPal or I will refund immediately. thanks,2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment. Thanks.",0,accepts_protected
+No PayPal. Cash only. please,1,refuses_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees. Thanks.,2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup. Cool.,1,refuses_protected
+I don't use PayPal or any online apps....,1,refuses_protected
+"No PayPal, cash only when we meet at the mall. thanks",1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after. thanks,2,pushes_friends_and_family
+F&F or no deal. I'm not giving 4% to PayPal. bro,2,pushes_friends_and_family
+"Sure thing, please send the invoice or checkout link. ok?",0,accepts_protected
+"Strictly local pickup with cash. No shipping, no links. thanks",1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after.,2,pushes_friends_and_family
+"Why send as goods? Just choose family and friends, I have high ratings. thanks",2,pushes_friends_and_family
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega.!",2,pushes_friends_and_family
+"Pick up and cash only, take it or leave it.!",1,refuses_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo.",1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after.!,2,pushes_friends_and_family
+F&F only! I don't do Goods and Services. buddy,2,pushes_friends_and_family
+"I do not do payment links, strictly cash at exchange. Cool.",1,refuses_protected
+"Pick up and cash only, take it or leave it.!",1,refuses_protected
+"That sounds great, I'm happy to use G&S protection. buddy",0,accepts_protected
+"I do not do payment links, strictly cash at exchange. bro",1,refuses_protected
+No Goods & Services. Send as friend or find another seller....,2,pushes_friends_and_family
+I decline PayPal. Bank deposit or physical cash only. thanks,1,refuses_protected
+No Goods & Services. Send as friend or find another seller. Thanks.,2,pushes_friends_and_family
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. Let me know.,2,pushes_friends_and_family
+I decline PayPal. Bank deposit or physical cash only. ok?,1,refuses_protected
+"Sure thing, please send the invoice or checkout link....",0,accepts_protected
+"Make sure you tick Friends & Family when sending, not Goods. Thanks.",2,pushes_friends_and_family
+"Sure thing, please send the invoice or checkout link. bro",0,accepts_protected
+I'm completely fine with Goods and Services. Send it over. please,0,accepts_protected
+Works for me. Send the link across!...,0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it....",0,accepts_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. thanks",0,accepts_protected
+Approved! Send me the official link and I'll get it ready for dispatch. please,0,accepts_protected
+"No, in-person cash only. Too many scams online. Thanks.",1,refuses_protected
+"Yes, PayPal Goods and Services works for me. Thanks.",0,accepts_protected
+"Pick up and cash only, take it or leave it. buddy",1,refuses_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only. please",1,refuses_protected
+F&F or no deal. I'm not giving 4% to PayPal....,2,pushes_friends_and_family
+"F&F only bro, I am selling as an individual and don't want business tax deductions. Let me know.",2,pushes_friends_and_family
+No Goods & Services. Send as friend or find another seller. buddy,2,pushes_friends_and_family
+"Goods & Services is good with me, I will pack it right now. bro",0,accepts_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. thanks",2,pushes_friends_and_family
+I don't accept Goods & Services.,1,refuses_protected
+"No problem at all, I'll ship with tracking once paid....",0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. ok?",1,refuses_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. thanks,0,accepts_protected
+"Goods & Services is good with me, I will pack it right now. Cool.",0,accepts_protected
+Select friends and family option on PayPal or I will refund immediately.,2,pushes_friends_and_family
+"Why send as goods? Just choose family and friends, I have high ratings. Cool.",2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today. buddy",0,accepts_protected
+"Cash only on pickup mate, no digital payments. buddy",1,refuses_protected
+"Why send as goods? Just choose family and friends, I have high ratings. thanks",2,pushes_friends_and_family
+"Okay, let's do it via PayPal Goods. Drop the link here.!",0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. Cool.",0,accepts_protected
+I don't have PayPal configured. Cash only please. ok?,1,refuses_protected
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe. ok?",2,pushes_friends_and_family
+"Sure thing, please send the invoice or checkout link. buddy",0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. thanks",0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. Let me know.",1,refuses_protected
+"Make sure you tick Friends & Family when sending, not Goods. ok?",2,pushes_friends_and_family
+I only do face to face cash deals. thanks,1,refuses_protected
+I don't have PayPal configured. Cash only please....,1,refuses_protected
+Send via F&F or the deal is off. bro,2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup.,1,refuses_protected
+"No problem at all, I'll ship with tracking once paid. thanks",0,accepts_protected
+"Don't send as G&S, send personal transfer so no fees apply. bro",2,pushes_friends_and_family
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe. thanks",2,pushes_friends_and_family
+"No PayPal, cash only when we meet at the mall....",1,refuses_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. Cool.",0,accepts_protected
+I decline PayPal. Bank deposit or physical cash only. Thanks.,1,refuses_protected
+No online transfers. Cash when we meet in person. please,1,refuses_protected
+F&F or no deal. I'm not giving 4% to PayPal. thanks,2,pushes_friends_and_family
+"Goods & Services is good with me, I will pack it right now. bro",0,accepts_protected
+"Goods & Services is good with me, I will pack it right now. ok?",0,accepts_protected
+Only friends and family transfer accepted. I'm shipping right after. Let me know.,2,pushes_friends_and_family
+"No PayPal, cash only when we meet at the mall. please",1,refuses_protected
+"Goods & Services is good with me, I will pack it right now. Thanks.",0,accepts_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees. please,2,pushes_friends_and_family
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. buddy",0,accepts_protected
+Send via F&F or the deal is off....,2,pushes_friends_and_family
+"Why send as goods? Just choose family and friends, I have high ratings. Let me know.",2,pushes_friends_and_family
+Send via F&F or the deal is off. Cool.,2,pushes_friends_and_family
+I decline PayPal. Bank deposit or physical cash only. buddy,1,refuses_protected
+"Make sure you tick Friends & Family when sending, not Goods. Cool.",2,pushes_friends_and_family
+"Nahi bhai online payment nahi chalega, cash only aake le jao.!",1,refuses_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. thanks,0,accepts_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. Let me know.",0,accepts_protected
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe. Thanks.",2,pushes_friends_and_family
+I don't have PayPal configured. Cash only please. Let me know.,1,refuses_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket. buddy,2,pushes_friends_and_family
+Send via F&F or the deal is off.,2,pushes_friends_and_family
+"Make sure you tick Friends & Family when sending, not Goods. thanks",2,pushes_friends_and_family
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega.",2,pushes_friends_and_family
+"Sorry, had too many issues with PayPal chargebacks, cash only. thanks",1,refuses_protected
+"Don't send as G&S, send personal transfer so no fees apply. bro",2,pushes_friends_and_family
+"Okay, let's do it via PayPal Goods. Drop the link here. Cool.",0,accepts_protected
+"Goods & Services is good with me, I will pack it right now.!",0,accepts_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. thanks",2,pushes_friends_and_family
+"Cash only on pickup mate, no digital payments....",1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked. Thanks.,2,pushes_friends_and_family
+"Sure, send the PayPal link and I'll confirm receipt. bro",0,accepts_protected
+"Yes, PayPal Goods and Services works for me. ok?",0,accepts_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today. ok?",0,accepts_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket. Thanks.,2,pushes_friends_and_family
+"Yes, PayPal Goods and Services works for me.",0,accepts_protected
+"Okay, let's do it via PayPal Goods. Drop the link here.!",0,accepts_protected
+"No, in-person cash only. Too many scams online. ok?",1,refuses_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. ok?",0,accepts_protected
+"Goods & Services is good with me, I will pack it right now. bro",0,accepts_protected
+I decline PayPal. Bank deposit or physical cash only. thanks,1,refuses_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days.,2,pushes_friends_and_family
+Works for me. Send the link across! Cool.,0,accepts_protected
+No PayPal. Cash only. please,1,refuses_protected
+"Sure thing, please send the invoice or checkout link. Let me know.",0,accepts_protected
+"Sure thing, please send the invoice or checkout link. Let me know.",0,accepts_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days.,2,pushes_friends_and_family
+Send it through PayPal friends option otherwise I cancel. Let me know.,2,pushes_friends_and_family
+"Chalega, Goods and Services kar do, tracking de dunga kal....",0,accepts_protected
+"Sure thing, please send the invoice or checkout link. Cool.",0,accepts_protected
+Sounds fair. Send the checkout link and I will prepare the package. please,0,accepts_protected
+I'm completely fine with Goods and Services. Send it over. please,0,accepts_protected
+Approved! Send me the official link and I'll get it ready for dispatch. buddy,0,accepts_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees....,2,pushes_friends_and_family
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. Thanks.",2,pushes_friends_and_family
+I'm completely fine with Goods and Services. Send it over. Cool.,0,accepts_protected
+"Don't send as G&S, send personal transfer so no fees apply. bro",2,pushes_friends_and_family
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. please",0,accepts_protected
+No online transfers. Cash when we meet in person....,1,refuses_protected
+I don't use PayPal or any online apps. Thanks.,1,refuses_protected
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe. thanks",2,pushes_friends_and_family
+F&F only! I don't do Goods and Services. please,2,pushes_friends_and_family
+"Okay, let's do it via PayPal Goods. Drop the link here. thanks",0,accepts_protected
+I only do face to face cash deals. Cool.,1,refuses_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. buddy",2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup. Thanks.,1,refuses_protected
+Send it through PayPal friends option otherwise I cancel. ok?,2,pushes_friends_and_family
+"I won't accept Goods and Services, send through Friends & Family. ok?",2,pushes_friends_and_family
+"Cash only on pickup mate, no digital payments. Cool.",1,refuses_protected
+I don't use PayPal or any online apps. thanks,1,refuses_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days.!,2,pushes_friends_and_family
+"Goods & Services is good with me, I will pack it right now.!",0,accepts_protected
+Approved! Send me the official link and I'll get it ready for dispatch. thanks,0,accepts_protected
+"Sure, send the PayPal link and I'll confirm receipt.",0,accepts_protected
+No Goods & Services. Send as friend or find another seller.!,2,pushes_friends_and_family
+I don't accept Goods & Services. please,1,refuses_protected
+"No, in-person cash only. Too many scams online. bro",1,refuses_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready.!",0,accepts_protected
+No online transfers. Cash when we meet in person. buddy,1,refuses_protected
+"No PayPal, cash only when we meet at the mall. bro",1,refuses_protected
+I don't use PayPal or any online apps.,1,refuses_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. ok?",0,accepts_protected
+"I won't accept Goods and Services, send through Friends & Family. ok?",2,pushes_friends_and_family
+Sounds fair. Send the checkout link and I will prepare the package. thanks,0,accepts_protected
+No cards or online links. Physical cash only upon meetup. buddy,1,refuses_protected
+"Why send as goods? Just choose family and friends, I have high ratings. Thanks.",2,pushes_friends_and_family
+I only do face to face cash deals. please,1,refuses_protected
+Select friends and family option on PayPal or I will refund immediately.,2,pushes_friends_and_family
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. please",1,refuses_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. thanks",2,pushes_friends_and_family
+I don't have PayPal configured. Cash only please. bro,1,refuses_protected
+"I won't accept Goods and Services, send through Friends & Family. please",2,pushes_friends_and_family
+Use F and F option on PayPal so neither of us pays unnecessary fees. Let me know.,2,pushes_friends_and_family
+"No PayPal, cash only when we meet at the mall. Let me know.",1,refuses_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions....",2,pushes_friends_and_family
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days....,2,pushes_friends_and_family
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. ok?",2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link. Thanks.,0,accepts_protected
+Select friends and family option on PayPal or I will refund immediately. Cool.,2,pushes_friends_and_family
+"Sure thing, please send the invoice or checkout link. buddy",0,accepts_protected
+I only take payment as Friends and Family. Business payments get locked. thanks,2,pushes_friends_and_family
+"Sure, send the PayPal link and I'll confirm receipt. Cool.",0,accepts_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. thanks",1,refuses_protected
+I'm completely fine with Goods and Services. Send it over. please,0,accepts_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. please,2,pushes_friends_and_family
+"Goods & Services is good with me, I will pack it right now. Cool.",0,accepts_protected
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe. ok?",2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup.,1,refuses_protected
+"That sounds great, I'm happy to use G&S protection. Cool.",0,accepts_protected
+"Yes, PayPal Goods and Services works for me. thanks",0,accepts_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal. Thanks.",0,accepts_protected
+"Yes, PayPal Goods and Services works for me. please",0,accepts_protected
+"Why send as goods? Just choose family and friends, I have high ratings. buddy",2,pushes_friends_and_family
+I only take payment as Friends and Family. Business payments get locked....,2,pushes_friends_and_family
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. Thanks.",0,accepts_protected
+Works for me. Send the link across! thanks,0,accepts_protected
+"Strictly local pickup with cash. No shipping, no links. ok?",1,refuses_protected
+"I do not do payment links, strictly cash at exchange....",1,refuses_protected
+Cash in person only. No online payments....,1,refuses_protected
+"Sure, send the PayPal link and I'll confirm receipt. ok?",0,accepts_protected
+Cash in person only. No online payments. ok?,1,refuses_protected
+I don't have PayPal configured. Cash only please. Cool.,1,refuses_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. Cool.",2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link.,0,accepts_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready.!",0,accepts_protected
+"Cash only on pickup mate, no digital payments. Let me know.",1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked. please,2,pushes_friends_and_family
+I don't have PayPal configured. Cash only please.!,1,refuses_protected
+"Don't send as G&S, send personal transfer so no fees apply. bro",2,pushes_friends_and_family
+"Make sure you tick Friends & Family when sending, not Goods. Thanks.",2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today. bro",0,accepts_protected
+"Make sure you tick Friends & Family when sending, not Goods. please",2,pushes_friends_and_family
+I only do face to face cash deals. Let me know.,1,refuses_protected
+Sounds fair. Send the checkout link and I will prepare the package.,0,accepts_protected
+Only friends and family transfer accepted. I'm shipping right after. ok?,2,pushes_friends_and_family
+Only friends and family transfer accepted. I'm shipping right after. Cool.,2,pushes_friends_and_family
+Approved! Send me the official link and I'll get it ready for dispatch. Cool.,0,accepts_protected
+"I do not do payment links, strictly cash at exchange....",1,refuses_protected
+Sounds fair. Send the checkout link and I will prepare the package.,0,accepts_protected
+"Strictly local pickup with cash. No shipping, no links. buddy",1,refuses_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon.",0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. Let me know.",1,refuses_protected
+"I won't accept Goods and Services, send through Friends & Family. ok?",2,pushes_friends_and_family
+F&F only! I don't do Goods and Services.,2,pushes_friends_and_family
+"Goods & Services is good with me, I will pack it right now. thanks",0,accepts_protected
+F&F only! I don't do Goods and Services.!,2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment.",0,accepts_protected
+"No PayPal, cash only when we meet at the mall. buddy",1,refuses_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo.!",1,refuses_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. please",1,refuses_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready....",0,accepts_protected
+"I do not do payment links, strictly cash at exchange.",1,refuses_protected
+I don't use PayPal or any online apps.,1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after. bro,2,pushes_friends_and_family
+"Please select 'Sending to a friend / Friends and Family', not paying for goods.!",2,pushes_friends_and_family
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. ok?",2,pushes_friends_and_family
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. buddy,2,pushes_friends_and_family
+I decline PayPal. Bank deposit or physical cash only.!,1,refuses_protected
+I don't have PayPal configured. Cash only please.!,1,refuses_protected
+Cash in person only. No online payments....,1,refuses_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today.",0,accepts_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. Thanks.",0,accepts_protected
+"I accept PayPal G&S, go ahead and send the payment.!",0,accepts_protected
+I don't accept Goods & Services. Let me know.,1,refuses_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions.",2,pushes_friends_and_family
+"I won't accept Goods and Services, send through Friends & Family. buddy",2,pushes_friends_and_family
+"Yeah that's totally fine, buyer protection is important. please",0,accepts_protected
+That's safe for both of us. Please share the payment link. Thanks.,0,accepts_protected
+"I won't accept Goods and Services, send through Friends & Family. please",2,pushes_friends_and_family
+I only take payment as Friends and Family. Business payments get locked. please,2,pushes_friends_and_family
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. Thanks.",2,pushes_friends_and_family
+"Yes, PayPal Goods and Services works for me. please",0,accepts_protected
+"Why send as goods? Just choose family and friends, I have high ratings. Cool.",2,pushes_friends_and_family
+Select friends and family option on PayPal or I will refund immediately. Let me know.,2,pushes_friends_and_family
+"I won't accept Goods and Services, send through Friends & Family. ok?",2,pushes_friends_and_family
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. please",0,accepts_protected
+Cash in person only. No online payments.,1,refuses_protected
+"That sounds great, I'm happy to use G&S protection. buddy",0,accepts_protected
+"I accept PayPal G&S, go ahead and send the payment....",0,accepts_protected
+"I do not do payment links, strictly cash at exchange. buddy",1,refuses_protected
+I don't accept Goods & Services. Let me know.,1,refuses_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. please",0,accepts_protected
+"That sounds great, I'm happy to use G&S protection. please",0,accepts_protected
+Sounds fair. Send the checkout link and I will prepare the package. Cool.,0,accepts_protected
+"Why send as goods? Just choose family and friends, I have high ratings. thanks",2,pushes_friends_and_family
+Works for me. Send the link across! thanks,0,accepts_protected
+"No problem at all, I'll ship with tracking once paid. please",0,accepts_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. Thanks.",1,refuses_protected
+I only do face to face cash deals.!,1,refuses_protected
+No online transfers. Cash when we meet in person. Cool.,1,refuses_protected
+"Goods & Services is good with me, I will pack it right now.!",0,accepts_protected
+"No problem at all, I'll ship with tracking once paid. buddy",0,accepts_protected
+I only take payment as Friends and Family. Business payments get locked. please,2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today. buddy",0,accepts_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. bro",2,pushes_friends_and_family
+I don't have PayPal configured. Cash only please.!,1,refuses_protected
+"No PayPal, cash only when we meet at the mall. Cool.",1,refuses_protected
+"Make sure you tick Friends & Family when sending, not Goods.!",2,pushes_friends_and_family
+Cash in person only. No online payments. Let me know.,1,refuses_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. please",0,accepts_protected
+"I do not do payment links, strictly cash at exchange. Cool.",1,refuses_protected
+"Goods & Services is good with me, I will pack it right now. bro",0,accepts_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal.",0,accepts_protected
+I don't use PayPal or any online apps. ok?,1,refuses_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods.!",2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link. bro,0,accepts_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. ok?",1,refuses_protected
+"No, in-person cash only. Too many scams online.!",1,refuses_protected
+Send via F&F or the deal is off. thanks,2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today....",0,accepts_protected
+I decline PayPal. Bank deposit or physical cash only....,1,refuses_protected
+No online transfers. Cash when we meet in person. bro,1,refuses_protected
+No Goods & Services. Send as friend or find another seller.,2,pushes_friends_and_family
+"Pick up and cash only, take it or leave it.!",1,refuses_protected
+Send it through PayPal friends option otherwise I cancel. bro,2,pushes_friends_and_family
+"Nahi bhai online payment nahi chalega, cash only aake le jao. Let me know.",1,refuses_protected
+"No, send it as Friends and Family so we avoid fees. Cool.",2,pushes_friends_and_family
+I don't use PayPal or any online apps. Thanks.,1,refuses_protected
+"No PayPal, cash only when we meet at the mall.!",1,refuses_protected
+I only do face to face cash deals. Thanks.,1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after.!,2,pushes_friends_and_family
+Cash in person only. No online payments. Thanks.,1,refuses_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees. ok?,2,pushes_friends_and_family
+"Not interested in PayPal. If you can't pay cash in person, no deal. please",1,refuses_protected
+I only do face to face cash deals. ok?,1,refuses_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees. please,2,pushes_friends_and_family
+"Make sure you tick Friends & Family when sending, not Goods. Thanks.",2,pushes_friends_and_family
+"Sure, send the PayPal link and I'll confirm receipt. thanks",0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. buddy",1,refuses_protected
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe.",2,pushes_friends_and_family
+I only take payment as Friends and Family. Business payments get locked. Cool.,2,pushes_friends_and_family
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. buddy",0,accepts_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. bro",1,refuses_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. please",0,accepts_protected
+Sounds fair. Send the checkout link and I will prepare the package. Cool.,0,accepts_protected
+"Don't send as G&S, send personal transfer so no fees apply. Thanks.",2,pushes_friends_and_family
+"Why send as goods? Just choose family and friends, I have high ratings. ok?",2,pushes_friends_and_family
+F&F or no deal. I'm not giving 4% to PayPal. buddy,2,pushes_friends_and_family
+"No, in-person cash only. Too many scams online. thanks",1,refuses_protected
+"Yeah that's totally fine, buyer protection is important. Cool.",0,accepts_protected
+I don't accept Goods & Services. bro,1,refuses_protected
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe. buddy",2,pushes_friends_and_family
+"Yeah that's totally fine, buyer protection is important. Thanks.",0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. buddy",1,refuses_protected
+No online transfers. Cash when we meet in person. please,1,refuses_protected
+"Why send as goods? Just choose family and friends, I have high ratings. Cool.",2,pushes_friends_and_family
+"Nahi bhai online payment nahi chalega, cash only aake le jao. Thanks.",1,refuses_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. ok?",0,accepts_protected
+"I won't accept Goods and Services, send through Friends & Family. thanks",2,pushes_friends_and_family
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. Let me know.",0,accepts_protected
+"Pick up and cash only, take it or leave it.",1,refuses_protected
+"I do not do payment links, strictly cash at exchange. Cool.",1,refuses_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. thanks,0,accepts_protected
+F&F only! I don't do Goods and Services. bro,2,pushes_friends_and_family
+Send via F&F or the deal is off. thanks,2,pushes_friends_and_family
+"Make sure you tick Friends & Family when sending, not Goods. ok?",2,pushes_friends_and_family
+"Sure thing, please send the invoice or checkout link. ok?",0,accepts_protected
+F&F only! I don't do Goods and Services. thanks,2,pushes_friends_and_family
+Send via F&F or the deal is off. Cool.,2,pushes_friends_and_family
+"F&F only bro, I am selling as an individual and don't want business tax deductions.",2,pushes_friends_and_family
+No online transfers. Cash when we meet in person. Thanks.,1,refuses_protected
+"I won't accept Goods and Services, send through Friends & Family. Thanks.",2,pushes_friends_and_family
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo....",1,refuses_protected
+Works for me. Send the link across! ok?,0,accepts_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only.",1,refuses_protected
+I'm completely fine with Goods and Services. Send it over. buddy,0,accepts_protected
+No PayPal. Cash only. Let me know.,1,refuses_protected
+"Pick up and cash only, take it or leave it. thanks",1,refuses_protected
+I only do face to face cash deals. Cool.,1,refuses_protected
+No cards or online links. Physical cash only upon meetup....,1,refuses_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. please",0,accepts_protected
+Works for me. Send the link across! please,0,accepts_protected
+I don't do online checkout. Cash upon collection only. bro,1,refuses_protected
+I don't accept Goods & Services.!,1,refuses_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it.!",0,accepts_protected
+I only take payment as Friends and Family. Business payments get locked. thanks,2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment. Thanks.",0,accepts_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only. ok?",1,refuses_protected
+I don't use PayPal or any online apps. please,1,refuses_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. Cool.",0,accepts_protected
+F&F only! I don't do Goods and Services. Thanks.,2,pushes_friends_and_family
+No Goods & Services. Send as friend or find another seller.,2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link. please,0,accepts_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket. Thanks.,2,pushes_friends_and_family
+"I won't accept Goods and Services, send through Friends & Family. thanks",2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today....",0,accepts_protected
+"No PayPal, cash only when we meet at the mall. ok?",1,refuses_protected
+"Strictly local pickup with cash. No shipping, no links. please",1,refuses_protected
+"Pick up and cash only, take it or leave it. thanks",1,refuses_protected
+Sounds fair. Send the checkout link and I will prepare the package.,0,accepts_protected
+"Don't send as G&S, send personal transfer so no fees apply....",2,pushes_friends_and_family
+"Sure thing, please send the invoice or checkout link....",0,accepts_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. ok?",2,pushes_friends_and_family
+F&F only! I don't do Goods and Services. bro,2,pushes_friends_and_family
+I don't use PayPal or any online apps. please,1,refuses_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. Let me know.,0,accepts_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods.!",2,pushes_friends_and_family
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. ok?",0,accepts_protected
+Sounds fair. Send the checkout link and I will prepare the package.!,0,accepts_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal. Let me know.",0,accepts_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. Cool.",2,pushes_friends_and_family
+Approved! Send me the official link and I'll get it ready for dispatch.!,0,accepts_protected
+No PayPal. Cash only. Thanks.,1,refuses_protected
+"Pick up and cash only, take it or leave it. bro",1,refuses_protected
+"Don't send as G&S, send personal transfer so no fees apply. buddy",2,pushes_friends_and_family
+"Yes, PayPal Goods and Services works for me. please",0,accepts_protected
+F&F or no deal. I'm not giving 4% to PayPal. Thanks.,2,pushes_friends_and_family
+"Nahi bhai online payment nahi chalega, cash only aake le jao. Cool.",1,refuses_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. please",0,accepts_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions....",2,pushes_friends_and_family
+"I do not do payment links, strictly cash at exchange.!",1,refuses_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees. please,2,pushes_friends_and_family
+"No, send it as Friends and Family so we avoid fees.",2,pushes_friends_and_family
+No Goods & Services. Send as friend or find another seller. bro,2,pushes_friends_and_family
+I don't accept Goods & Services.!,1,refuses_protected
+Works for me. Send the link across! buddy,0,accepts_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. bro",2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup. Let me know.,1,refuses_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. Let me know.,2,pushes_friends_and_family
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe....",2,pushes_friends_and_family
+"Sorry, had too many issues with PayPal chargebacks, cash only. Thanks.",1,refuses_protected
+Cash in person only. No online payments. Thanks.,1,refuses_protected
+"No, send it as Friends and Family so we avoid fees. Cool.",2,pushes_friends_and_family
+Friends & Family only please. Otherwise the fee comes out of my pocket. bro,2,pushes_friends_and_family
+I only take payment as Friends and Family. Business payments get locked. ok?,2,pushes_friends_and_family
+"Yeah that's totally fine, buyer protection is important. Thanks.",0,accepts_protected
+"Yes, PayPal Goods and Services works for me. Thanks.",0,accepts_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. ok?,2,pushes_friends_and_family
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe....",2,pushes_friends_and_family
+Select friends and family option on PayPal or I will refund immediately. please,2,pushes_friends_and_family
+"Chalega, Goods and Services kar do, tracking de dunga kal.!",0,accepts_protected
+"No problem at all, I'll ship with tracking once paid. Let me know.",0,accepts_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. please",2,pushes_friends_and_family
+I don't have PayPal configured. Cash only please. bro,1,refuses_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. Let me know.",1,refuses_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions....",2,pushes_friends_and_family
+"Yes, PayPal Goods and Services works for me.",0,accepts_protected
+"Goods & Services is good with me, I will pack it right now....",0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. Cool.",1,refuses_protected
+"That sounds great, I'm happy to use G&S protection.!",0,accepts_protected
+I don't use PayPal or any online apps. thanks,1,refuses_protected
+"Sure, send the PayPal link and I'll confirm receipt....",0,accepts_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today.!",0,accepts_protected
+No cards or online links. Physical cash only upon meetup. Let me know.,1,refuses_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. please",2,pushes_friends_and_family
+"Don't send as G&S, send personal transfer so no fees apply. ok?",2,pushes_friends_and_family
+"No, send it as Friends and Family so we avoid fees.!",2,pushes_friends_and_family
+"Sure, send the PayPal link and I'll confirm receipt. please",0,accepts_protected
+F&F or no deal. I'm not giving 4% to PayPal. Cool.,2,pushes_friends_and_family
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. thanks",0,accepts_protected
+F&F only! I don't do Goods and Services....,2,pushes_friends_and_family
+I only take payment as Friends and Family. Business payments get locked. bro,2,pushes_friends_and_family
+"Yeah that's totally fine, buyer protection is important. please",0,accepts_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket.!,2,pushes_friends_and_family
+Only friends and family transfer accepted. I'm shipping right after. bro,2,pushes_friends_and_family
+"Sure, send the PayPal link and I'll confirm receipt. thanks",0,accepts_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket. please,2,pushes_friends_and_family
+I decline PayPal. Bank deposit or physical cash only. buddy,1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked. please,2,pushes_friends_and_family
+"Pick up and cash only, take it or leave it. Cool.",1,refuses_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today....",0,accepts_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. buddy",2,pushes_friends_and_family
+I only do face to face cash deals.,1,refuses_protected
+Send via F&F or the deal is off. Let me know.,2,pushes_friends_and_family
+Use F and F option on PayPal so neither of us pays unnecessary fees. Cool.,2,pushes_friends_and_family
+"No, send it as Friends and Family so we avoid fees. please",2,pushes_friends_and_family
+Only friends and family transfer accepted. I'm shipping right after. Cool.,2,pushes_friends_and_family
+No online transfers. Cash when we meet in person. please,1,refuses_protected
+That's safe for both of us. Please share the payment link. ok?,0,accepts_protected
+I don't have PayPal configured. Cash only please. Thanks.,1,refuses_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today. bro",0,accepts_protected
+"Sure thing, please send the invoice or checkout link. buddy",0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. ok?",1,refuses_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. Cool.",1,refuses_protected
+"No, in-person cash only. Too many scams online. please",1,refuses_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal. please",0,accepts_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees. ok?,2,pushes_friends_and_family
+Friends & Family only please. Otherwise the fee comes out of my pocket. bro,2,pushes_friends_and_family
+"Okay, let's do it via PayPal Goods. Drop the link here. Thanks.",0,accepts_protected
+I decline PayPal. Bank deposit or physical cash only.!,1,refuses_protected
+"Why send as goods? Just choose family and friends, I have high ratings. buddy",2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup....,1,refuses_protected
+Sounds fair. Send the checkout link and I will prepare the package. thanks,0,accepts_protected
+"Pick up and cash only, take it or leave it. Thanks.",1,refuses_protected
+"Why send as goods? Just choose family and friends, I have high ratings. Let me know.",2,pushes_friends_and_family
+Approved! Send me the official link and I'll get it ready for dispatch....,0,accepts_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees....,2,pushes_friends_and_family
+"F&F only bro, I am selling as an individual and don't want business tax deductions. thanks",2,pushes_friends_and_family
+"Chalega, Goods and Services kar do, tracking de dunga kal. thanks",0,accepts_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions.",2,pushes_friends_and_family
+Sounds fair. Send the checkout link and I will prepare the package. bro,0,accepts_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket. thanks,2,pushes_friends_and_family
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. buddy",0,accepts_protected
+"No, send it as Friends and Family so we avoid fees. Thanks.",2,pushes_friends_and_family
+"No problem at all, I'll ship with tracking once paid. Cool.",0,accepts_protected
+"Why send as goods? Just choose family and friends, I have high ratings. thanks",2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment....",0,accepts_protected
+"Strictly local pickup with cash. No shipping, no links. please",1,refuses_protected
+Cash in person only. No online payments. please,1,refuses_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. Thanks.",1,refuses_protected
+Send it through PayPal friends option otherwise I cancel.!,2,pushes_friends_and_family
+"Cash only on pickup mate, no digital payments. ok?",1,refuses_protected
+I'm completely fine with Goods and Services. Send it over. Cool.,0,accepts_protected
+Approved! Send me the official link and I'll get it ready for dispatch. thanks,0,accepts_protected
+No Goods & Services. Send as friend or find another seller. Let me know.,2,pushes_friends_and_family
+"Sure, send the PayPal link and I'll confirm receipt.",0,accepts_protected
+I'm completely fine with Goods and Services. Send it over. Cool.,0,accepts_protected
+I only take payment as Friends and Family. Business payments get locked. bro,2,pushes_friends_and_family
+I don't have PayPal configured. Cash only please. please,1,refuses_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. Thanks.",2,pushes_friends_and_family
+"That sounds great, I'm happy to use G&S protection. Let me know.",0,accepts_protected
+Cash in person only. No online payments. please,1,refuses_protected
+"I won't accept Goods and Services, send through Friends & Family. Thanks.",2,pushes_friends_and_family
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. thanks",2,pushes_friends_and_family
+"Sure, send the PayPal link and I'll confirm receipt. please",0,accepts_protected
+"Why send as goods? Just choose family and friends, I have high ratings. Thanks.",2,pushes_friends_and_family
+"Cash only on pickup mate, no digital payments. thanks",1,refuses_protected
+"Strictly local pickup with cash. No shipping, no links. ok?",1,refuses_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today.",0,accepts_protected
+"Make sure you tick Friends & Family when sending, not Goods. please",2,pushes_friends_and_family
+Cash in person only. No online payments. Let me know.,1,refuses_protected
+"Goods & Services is good with me, I will pack it right now.",0,accepts_protected
+F&F or no deal. I'm not giving 4% to PayPal....,2,pushes_friends_and_family
+"Nahi bhai online payment nahi chalega, cash only aake le jao. buddy",1,refuses_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. thanks,2,pushes_friends_and_family
+"Goods & Services is good with me, I will pack it right now....",0,accepts_protected
+"No PayPal, cash only when we meet at the mall. please",1,refuses_protected
+"No PayPal, cash only when we meet at the mall. please",1,refuses_protected
+"Make sure you tick Friends & Family when sending, not Goods. Cool.",2,pushes_friends_and_family
+"Strictly local pickup with cash. No shipping, no links.",1,refuses_protected
+Works for me. Send the link across!!,0,accepts_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega....",2,pushes_friends_and_family
+"Don't send as G&S, send personal transfer so no fees apply....",2,pushes_friends_and_family
+Cash in person only. No online payments....,1,refuses_protected
+No cards or online links. Physical cash only upon meetup. ok?,1,refuses_protected
+"Goods & Services is good with me, I will pack it right now. Let me know.",0,accepts_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only. bro",1,refuses_protected
+No online transfers. Cash when we meet in person.,1,refuses_protected
+No cards or online links. Physical cash only upon meetup.,1,refuses_protected
+I don't accept Goods & Services.!,1,refuses_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. buddy,0,accepts_protected
+No online transfers. Cash when we meet in person.!,1,refuses_protected
+"Sure thing, please send the invoice or checkout link. Let me know.",0,accepts_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal. thanks",0,accepts_protected
+Send it through PayPal friends option otherwise I cancel.,2,pushes_friends_and_family
+I don't do online checkout. Cash upon collection only. buddy,1,refuses_protected
+"No problem at all, I'll ship with tracking once paid.",0,accepts_protected
+Send via F&F or the deal is off.,2,pushes_friends_and_family
+I decline PayPal. Bank deposit or physical cash only. Let me know.,1,refuses_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. Cool.",0,accepts_protected
+"No problem at all, I'll ship with tracking once paid. Cool.",0,accepts_protected
+I don't use PayPal or any online apps. thanks,1,refuses_protected
+"That sounds great, I'm happy to use G&S protection. buddy",0,accepts_protected
+I decline PayPal. Bank deposit or physical cash only.!,1,refuses_protected
+Send it through PayPal friends option otherwise I cancel.,2,pushes_friends_and_family
+Send it through PayPal friends option otherwise I cancel. thanks,2,pushes_friends_and_family
+"Sure thing, please send the invoice or checkout link. please",0,accepts_protected
+Approved! Send me the official link and I'll get it ready for dispatch.!,0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. thanks",0,accepts_protected
+F&F only! I don't do Goods and Services.!,2,pushes_friends_and_family
+I don't use PayPal or any online apps. please,1,refuses_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. Cool.,0,accepts_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. thanks",1,refuses_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today. bro",0,accepts_protected
+"Sure, send the PayPal link and I'll confirm receipt. Cool.",0,accepts_protected
+No cards or online links. Physical cash only upon meetup....,1,refuses_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. thanks",0,accepts_protected
+I decline PayPal. Bank deposit or physical cash only. Cool.,1,refuses_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. please",0,accepts_protected
+That's safe for both of us. Please share the payment link. ok?,0,accepts_protected
+"Yes, PayPal Goods and Services works for me. ok?",0,accepts_protected
+Select friends and family option on PayPal or I will refund immediately.,2,pushes_friends_and_family
+"Sure thing, please send the invoice or checkout link. thanks",0,accepts_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. ok?",1,refuses_protected
+"No, in-person cash only. Too many scams online. please",1,refuses_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega....",2,pushes_friends_and_family
+"No PayPal, cash only when we meet at the mall. Cool.",1,refuses_protected
+"No, in-person cash only. Too many scams online. thanks",1,refuses_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today. thanks",0,accepts_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal. Let me know.",0,accepts_protected
+"I accept PayPal G&S, go ahead and send the payment. bro",0,accepts_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo.",1,refuses_protected
+"No problem at all, I'll ship with tracking once paid. buddy",0,accepts_protected
+No online transfers. Cash when we meet in person. buddy,1,refuses_protected
+"Cash only on pickup mate, no digital payments. bro",1,refuses_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. buddy,2,pushes_friends_and_family
+I decline PayPal. Bank deposit or physical cash only....,1,refuses_protected
+Approved! Send me the official link and I'll get it ready for dispatch. buddy,0,accepts_protected
+F&F or no deal. I'm not giving 4% to PayPal. thanks,2,pushes_friends_and_family
+No online transfers. Cash when we meet in person.,1,refuses_protected
+"Make sure you tick Friends & Family when sending, not Goods. Cool.",2,pushes_friends_and_family
+No Goods & Services. Send as friend or find another seller. please,2,pushes_friends_and_family
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. buddy",2,pushes_friends_and_family
+"Why send as goods? Just choose family and friends, I have high ratings. Thanks.",2,pushes_friends_and_family
+"No problem at all, I'll ship with tracking once paid. Cool.",0,accepts_protected
+"Pick up and cash only, take it or leave it....",1,refuses_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. Let me know.",0,accepts_protected
+"Cash only on pickup mate, no digital payments.!",1,refuses_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. Cool.",0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. please",0,accepts_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal....",0,accepts_protected
+I don't accept Goods & Services. Cool.,1,refuses_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. Cool.",2,pushes_friends_and_family
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon....",0,accepts_protected
+Select friends and family option on PayPal or I will refund immediately. Cool.,2,pushes_friends_and_family
+"Goods & Services is good with me, I will pack it right now. buddy",0,accepts_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. please,2,pushes_friends_and_family
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. Let me know.",2,pushes_friends_and_family
+Send it through PayPal friends option otherwise I cancel. Cool.,2,pushes_friends_and_family
+"Chalega, Goods and Services kar do, tracking de dunga kal. thanks",0,accepts_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees.,2,pushes_friends_and_family
+Approved! Send me the official link and I'll get it ready for dispatch. buddy,0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao....",1,refuses_protected
+"No, send it as Friends and Family so we avoid fees. buddy",2,pushes_friends_and_family
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. ok?",1,refuses_protected
+I don't accept Goods & Services. Cool.,1,refuses_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only. bro",1,refuses_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees. ok?,2,pushes_friends_and_family
+"Not interested in PayPal. If you can't pay cash in person, no deal.!",1,refuses_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared.,0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. buddy",0,accepts_protected
+Send via F&F or the deal is off. buddy,2,pushes_friends_and_family
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. bro",1,refuses_protected
+"Strictly local pickup with cash. No shipping, no links.!",1,refuses_protected
+"Yeah that's totally fine, buyer protection is important. buddy",0,accepts_protected
+"Sure thing, please send the invoice or checkout link.!",0,accepts_protected
+That's safe for both of us. Please share the payment link. please,0,accepts_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. Cool.",1,refuses_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal.!",0,accepts_protected
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe. ok?",2,pushes_friends_and_family
+I don't use PayPal or any online apps. Cool.,1,refuses_protected
+"Yeah that's totally fine, buyer protection is important. please",0,accepts_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days....,2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today.!",0,accepts_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal. Cool.",0,accepts_protected
+No online transfers. Cash when we meet in person.!,1,refuses_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. thanks",1,refuses_protected
+No cards or online links. Physical cash only upon meetup. ok?,1,refuses_protected
+That's safe for both of us. Please share the payment link. buddy,0,accepts_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket. ok?,2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link. ok?,0,accepts_protected
+"Sure, send the PayPal link and I'll confirm receipt. Let me know.",0,accepts_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. bro",0,accepts_protected
+"No, in-person cash only. Too many scams online. bro",1,refuses_protected
+I'm completely fine with Goods and Services. Send it over....,0,accepts_protected
+"No, in-person cash only. Too many scams online. Let me know.",1,refuses_protected
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe. Let me know.",2,pushes_friends_and_family
+Approved! Send me the official link and I'll get it ready for dispatch. ok?,0,accepts_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. Thanks.",2,pushes_friends_and_family
+"Cash only on pickup mate, no digital payments. Thanks.",1,refuses_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. please",2,pushes_friends_and_family
+Select friends and family option on PayPal or I will refund immediately. bro,2,pushes_friends_and_family
+"Don't send as G&S, send personal transfer so no fees apply. Let me know.",2,pushes_friends_and_family
+"Strictly local pickup with cash. No shipping, no links. Let me know.",1,refuses_protected
+"Strictly local pickup with cash. No shipping, no links. please",1,refuses_protected
+I'm completely fine with Goods and Services. Send it over. thanks,0,accepts_protected
+No PayPal. Cash only. buddy,1,refuses_protected
+I don't do online checkout. Cash upon collection only. thanks,1,refuses_protected
+F&F only! I don't do Goods and Services. thanks,2,pushes_friends_and_family
+Sounds fair. Send the checkout link and I will prepare the package. Let me know.,0,accepts_protected
+Sounds fair. Send the checkout link and I will prepare the package. ok?,0,accepts_protected
+I don't do online checkout. Cash upon collection only. thanks,1,refuses_protected
+I only do face to face cash deals....,1,refuses_protected
+No PayPal. Cash only. Thanks.,1,refuses_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. Cool.",0,accepts_protected
+"That sounds great, I'm happy to use G&S protection. ok?",0,accepts_protected
+"No, send it as Friends and Family so we avoid fees. bro",2,pushes_friends_and_family
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. Let me know.",0,accepts_protected
+Works for me. Send the link across! bro,0,accepts_protected
+"Cash only on pickup mate, no digital payments. thanks",1,refuses_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees....,2,pushes_friends_and_family
+"Make sure you tick Friends & Family when sending, not Goods. buddy",2,pushes_friends_and_family
+Got it. Send the PayPal checkout link and I'll notify you once cleared.!,0,accepts_protected
+No online transfers. Cash when we meet in person. bro,1,refuses_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal. ok?",0,accepts_protected
+"Cash only on pickup mate, no digital payments. Cool.",1,refuses_protected
+F&F only! I don't do Goods and Services. Thanks.,2,pushes_friends_and_family
+I don't have PayPal configured. Cash only please....,1,refuses_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods.",2,pushes_friends_and_family
+Cash in person only. No online payments. Thanks.,1,refuses_protected
+"I won't accept Goods and Services, send through Friends & Family....",2,pushes_friends_and_family
+I only take payment as Friends and Family. Business payments get locked. bro,2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today. buddy",0,accepts_protected
+F&F only! I don't do Goods and Services. Let me know.,2,pushes_friends_and_family
+"Sorry, had too many issues with PayPal chargebacks, cash only. Thanks.",1,refuses_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. ok?",0,accepts_protected
+"Don't send as G&S, send personal transfer so no fees apply. Thanks.",2,pushes_friends_and_family
+"Nahi bhai online payment nahi chalega, cash only aake le jao. bro",1,refuses_protected
+I'm completely fine with Goods and Services. Send it over. please,0,accepts_protected
+Sounds fair. Send the checkout link and I will prepare the package. Let me know.,0,accepts_protected
+"Yeah that's totally fine, buyer protection is important. bro",0,accepts_protected
+"Goods & Services is good with me, I will pack it right now. bro",0,accepts_protected
+Send via F&F or the deal is off.!,2,pushes_friends_and_family
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. please",2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup. Cool.,1,refuses_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket. Let me know.,2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link. thanks,0,accepts_protected
+Send it through PayPal friends option otherwise I cancel. bro,2,pushes_friends_and_family
+Cash in person only. No online payments....,1,refuses_protected
+"Strictly local pickup with cash. No shipping, no links. thanks",1,refuses_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. buddy",1,refuses_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. please",0,accepts_protected
+I decline PayPal. Bank deposit or physical cash only. Let me know.,1,refuses_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. thanks,0,accepts_protected
+"Pick up and cash only, take it or leave it. Cool.",1,refuses_protected
+No cards or online links. Physical cash only upon meetup. Thanks.,1,refuses_protected
+No Goods & Services. Send as friend or find another seller. Cool.,2,pushes_friends_and_family
+"Goods & Services is good with me, I will pack it right now. Let me know.",0,accepts_protected
+No cards or online links. Physical cash only upon meetup. please,1,refuses_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao.",1,refuses_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only. buddy",1,refuses_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. Thanks.",2,pushes_friends_and_family
+"Goods & Services is good with me, I will pack it right now. Cool.",0,accepts_protected
+"Why send as goods? Just choose family and friends, I have high ratings. bro",2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup. please,1,refuses_protected
+No online transfers. Cash when we meet in person.!,1,refuses_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. thanks",1,refuses_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. Cool.,0,accepts_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days.!,2,pushes_friends_and_family
+"No, in-person cash only. Too many scams online. Cool.",1,refuses_protected
+I don't do online checkout. Cash upon collection only. please,1,refuses_protected
+"Yeah that's totally fine, buyer protection is important. please",0,accepts_protected
+Cash in person only. No online payments. ok?,1,refuses_protected
+F&F or no deal. I'm not giving 4% to PayPal. Thanks.,2,pushes_friends_and_family
+Got it. Send the PayPal checkout link and I'll notify you once cleared.!,0,accepts_protected
+I don't accept Goods & Services. ok?,1,refuses_protected
+Cash in person only. No online payments. Cool.,1,refuses_protected
+"I accept PayPal G&S, go ahead and send the payment. Thanks.",0,accepts_protected
+Cash in person only. No online payments.!,1,refuses_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. ok?",2,pushes_friends_and_family
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. buddy",1,refuses_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. Thanks.",0,accepts_protected
+"Sure thing, please send the invoice or checkout link. please",0,accepts_protected
+I don't use PayPal or any online apps.!,1,refuses_protected
+That's safe for both of us. Please share the payment link. bro,0,accepts_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today. ok?",0,accepts_protected
+"That sounds great, I'm happy to use G&S protection. buddy",0,accepts_protected
+"Sure, send the PayPal link and I'll confirm receipt. Let me know.",0,accepts_protected
+No Goods & Services. Send as friend or find another seller. Let me know.,2,pushes_friends_and_family
+Send via F&F or the deal is off. buddy,2,pushes_friends_and_family
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe. please",2,pushes_friends_and_family
+"Sure, I understand safety concerns. Send the payment link whenever you're ready.",0,accepts_protected
+"No, send it as Friends and Family so we avoid fees. bro",2,pushes_friends_and_family
+Works for me. Send the link across!...,0,accepts_protected
+"Pick up and cash only, take it or leave it. buddy",1,refuses_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon....",0,accepts_protected
+Sounds fair. Send the checkout link and I will prepare the package. buddy,0,accepts_protected
+"Make sure you tick Friends & Family when sending, not Goods. bro",2,pushes_friends_and_family
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe....",2,pushes_friends_and_family
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. ok?,2,pushes_friends_and_family
+"Sure thing, please send the invoice or checkout link. Thanks.",0,accepts_protected
+Send via F&F or the deal is off. Let me know.,2,pushes_friends_and_family
+"Cash only on pickup mate, no digital payments. please",1,refuses_protected
+"Sure thing, please send the invoice or checkout link.!",0,accepts_protected
+I don't accept Goods & Services.!,1,refuses_protected
+"Sure thing, please send the invoice or checkout link. Thanks.",0,accepts_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. thanks",0,accepts_protected
+I only do face to face cash deals.,1,refuses_protected
+Select friends and family option on PayPal or I will refund immediately. Cool.,2,pushes_friends_and_family
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. thanks",0,accepts_protected
+"Yeah that's totally fine, buyer protection is important. please",0,accepts_protected
+F&F only! I don't do Goods and Services.!,2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link. thanks,0,accepts_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only. Thanks.",1,refuses_protected
+Send it through PayPal friends option otherwise I cancel. Cool.,2,pushes_friends_and_family
+"No, in-person cash only. Too many scams online.!",1,refuses_protected
+"No PayPal, cash only when we meet at the mall.",1,refuses_protected
+"I do not do payment links, strictly cash at exchange. Thanks.",1,refuses_protected
+Send via F&F or the deal is off. buddy,2,pushes_friends_and_family
+Approved! Send me the official link and I'll get it ready for dispatch.,0,accepts_protected
+"No, in-person cash only. Too many scams online. Thanks.",1,refuses_protected
+That's safe for both of us. Please share the payment link.,0,accepts_protected
+Only friends and family transfer accepted. I'm shipping right after. Let me know.,2,pushes_friends_and_family
+"Yes, PayPal Goods and Services works for me.!",0,accepts_protected
+"Pick up and cash only, take it or leave it. thanks",1,refuses_protected
+I'm completely fine with Goods and Services. Send it over. buddy,0,accepts_protected
+"I do not do payment links, strictly cash at exchange.",1,refuses_protected
+"Strictly local pickup with cash. No shipping, no links. buddy",1,refuses_protected
+I don't use PayPal or any online apps. Cool.,1,refuses_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. Let me know.",0,accepts_protected
+Works for me. Send the link across! Let me know.,0,accepts_protected
+I don't do online checkout. Cash upon collection only. ok?,1,refuses_protected
+I don't use PayPal or any online apps. bro,1,refuses_protected
+Select friends and family option on PayPal or I will refund immediately. buddy,2,pushes_friends_and_family
+No online transfers. Cash when we meet in person.,1,refuses_protected
+"Sure thing, please send the invoice or checkout link....",0,accepts_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. Thanks.",1,refuses_protected
+"I won't accept Goods and Services, send through Friends & Family.",2,pushes_friends_and_family
+I don't do online checkout. Cash upon collection only....,1,refuses_protected
+I decline PayPal. Bank deposit or physical cash only. Cool.,1,refuses_protected
+"Sure, send the PayPal link and I'll confirm receipt. Let me know.",0,accepts_protected
+Sounds fair. Send the checkout link and I will prepare the package.!,0,accepts_protected
+"Sure thing, please send the invoice or checkout link. Cool.",0,accepts_protected
+"No, in-person cash only. Too many scams online. please",1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after. please,2,pushes_friends_and_family
+"Pick up and cash only, take it or leave it. Cool.",1,refuses_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only. Thanks.",1,refuses_protected
+"Pick up and cash only, take it or leave it. Let me know.",1,refuses_protected
+I don't use PayPal or any online apps....,1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after. Cool.,2,pushes_friends_and_family
+Works for me. Send the link across! buddy,0,accepts_protected
+"Don't send as G&S, send personal transfer so no fees apply.",2,pushes_friends_and_family
+"Make sure you tick Friends & Family when sending, not Goods. ok?",2,pushes_friends_and_family
+I only do face to face cash deals. Let me know.,1,refuses_protected
+Send it through PayPal friends option otherwise I cancel. buddy,2,pushes_friends_and_family
+No PayPal. Cash only. buddy,1,refuses_protected
+No online transfers. Cash when we meet in person. bro,1,refuses_protected
+"Why send as goods? Just choose family and friends, I have high ratings.!",2,pushes_friends_and_family
+F&F only! I don't do Goods and Services.,2,pushes_friends_and_family
+Only friends and family transfer accepted. I'm shipping right after. buddy,2,pushes_friends_and_family
+"That sounds great, I'm happy to use G&S protection. thanks",0,accepts_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods.!",2,pushes_friends_and_family
+Cash in person only. No online payments. ok?,1,refuses_protected
+"That sounds great, I'm happy to use G&S protection....",0,accepts_protected
+Send via F&F or the deal is off. Thanks.,2,pushes_friends_and_family
+"No problem at all, I'll ship with tracking once paid. please",0,accepts_protected
+No online transfers. Cash when we meet in person. ok?,1,refuses_protected
+"Sure thing, please send the invoice or checkout link.!",0,accepts_protected
+"I won't accept Goods and Services, send through Friends & Family....",2,pushes_friends_and_family
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. Thanks.",0,accepts_protected
+"I do not do payment links, strictly cash at exchange.!",1,refuses_protected
+"Make sure you tick Friends & Family when sending, not Goods. ok?",2,pushes_friends_and_family
+No Goods & Services. Send as friend or find another seller.!,2,pushes_friends_and_family
+Approved! Send me the official link and I'll get it ready for dispatch. ok?,0,accepts_protected
+"Make sure you tick Friends & Family when sending, not Goods. ok?",2,pushes_friends_and_family
+Send via F&F or the deal is off....,2,pushes_friends_and_family
+Send it through PayPal friends option otherwise I cancel. Let me know.,2,pushes_friends_and_family
+Send via F&F or the deal is off. please,2,pushes_friends_and_family
+"F&F only bro, I am selling as an individual and don't want business tax deductions. thanks",2,pushes_friends_and_family
+F&F or no deal. I'm not giving 4% to PayPal.,2,pushes_friends_and_family
+F&F or no deal. I'm not giving 4% to PayPal. thanks,2,pushes_friends_and_family
+"Sure, send the PayPal link and I'll confirm receipt. please",0,accepts_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. thanks,0,accepts_protected
+No online transfers. Cash when we meet in person. Cool.,1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked. buddy,2,pushes_friends_and_family
+"Not interested in PayPal. If you can't pay cash in person, no deal. Thanks.",1,refuses_protected
+Send it through PayPal friends option otherwise I cancel. Thanks.,2,pushes_friends_and_family
+Send it through PayPal friends option otherwise I cancel. Thanks.,2,pushes_friends_and_family
+"Sure thing, please send the invoice or checkout link. Cool.",0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. Let me know.",0,accepts_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. please",0,accepts_protected
+"No, in-person cash only. Too many scams online. Thanks.",1,refuses_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. please",1,refuses_protected
+"I accept PayPal G&S, go ahead and send the payment. ok?",0,accepts_protected
+Send it through PayPal friends option otherwise I cancel.!,2,pushes_friends_and_family
+Cash in person only. No online payments. buddy,1,refuses_protected
+Cash in person only. No online payments. Cool.,1,refuses_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. buddy",1,refuses_protected
+"Okay, let's do it via PayPal Goods. Drop the link here.",0,accepts_protected
+"Sure thing, please send the invoice or checkout link. Cool.",0,accepts_protected
+I don't accept Goods & Services. bro,1,refuses_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal. please",0,accepts_protected
+"I won't accept Goods and Services, send through Friends & Family.",2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup. buddy,1,refuses_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. bro",2,pushes_friends_and_family
+Select friends and family option on PayPal or I will refund immediately.,2,pushes_friends_and_family
+No PayPal. Cash only. ok?,1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after. buddy,2,pushes_friends_and_family
+Use F and F option on PayPal so neither of us pays unnecessary fees. Let me know.,2,pushes_friends_and_family
+Sounds fair. Send the checkout link and I will prepare the package. buddy,0,accepts_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only. Let me know.",1,refuses_protected
+"That sounds great, I'm happy to use G&S protection. Cool.",0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it.!",0,accepts_protected
+"Yes, PayPal Goods and Services works for me. Cool.",0,accepts_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today. please",0,accepts_protected
+No Goods & Services. Send as friend or find another seller. Thanks.,2,pushes_friends_and_family
+"Not interested in PayPal. If you can't pay cash in person, no deal. please",1,refuses_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. ok?",2,pushes_friends_and_family
+"Goods & Services is good with me, I will pack it right now. ok?",0,accepts_protected
+Works for me. Send the link across! ok?,0,accepts_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega....",2,pushes_friends_and_family
+I don't use PayPal or any online apps. buddy,1,refuses_protected
+No online transfers. Cash when we meet in person. ok?,1,refuses_protected
+"Make sure you tick Friends & Family when sending, not Goods. ok?",2,pushes_friends_and_family
+"Yes, PayPal Goods and Services works for me. buddy",0,accepts_protected
+Only friends and family transfer accepted. I'm shipping right after.,2,pushes_friends_and_family
+"I do not do payment links, strictly cash at exchange.!",1,refuses_protected
+"That sounds great, I'm happy to use G&S protection. bro",0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao....",1,refuses_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega....",2,pushes_friends_and_family
+Approved! Send me the official link and I'll get it ready for dispatch. Thanks.,0,accepts_protected
+I'm completely fine with Goods and Services. Send it over. buddy,0,accepts_protected
+That's safe for both of us. Please share the payment link. please,0,accepts_protected
+No PayPal. Cash only. please,1,refuses_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. Thanks.",1,refuses_protected
+Sounds fair. Send the checkout link and I will prepare the package. Thanks.,0,accepts_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. thanks",2,pushes_friends_and_family
+"Sure thing, please send the invoice or checkout link....",0,accepts_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo....",1,refuses_protected
+Sounds fair. Send the checkout link and I will prepare the package....,0,accepts_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. Thanks.",1,refuses_protected
+"Sure, send the PayPal link and I'll confirm receipt. Thanks.",0,accepts_protected
+I don't use PayPal or any online apps. thanks,1,refuses_protected
+Send via F&F or the deal is off. bro,2,pushes_friends_and_family
+F&F only! I don't do Goods and Services.!,2,pushes_friends_and_family
+No online transfers. Cash when we meet in person.,1,refuses_protected
+"Strictly local pickup with cash. No shipping, no links. Let me know.",1,refuses_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. Thanks.",2,pushes_friends_and_family
+"Pick up and cash only, take it or leave it. thanks",1,refuses_protected
+I only do face to face cash deals....,1,refuses_protected
+I decline PayPal. Bank deposit or physical cash only. Let me know.,1,refuses_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. thanks",1,refuses_protected
+"Yes, PayPal Goods and Services works for me.",0,accepts_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. bro",1,refuses_protected
+No cards or online links. Physical cash only upon meetup. please,1,refuses_protected
+Sounds fair. Send the checkout link and I will prepare the package.,0,accepts_protected
+No cards or online links. Physical cash only upon meetup. Let me know.,1,refuses_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. buddy",2,pushes_friends_and_family
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. Let me know.",1,refuses_protected
+"Pick up and cash only, take it or leave it. bro",1,refuses_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. Thanks.",1,refuses_protected
+No Goods & Services. Send as friend or find another seller. Cool.,2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today. bro",0,accepts_protected
+I only do face to face cash deals. buddy,1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked. bro,2,pushes_friends_and_family
+"Not interested in PayPal. If you can't pay cash in person, no deal. Thanks.",1,refuses_protected
+"Goods & Services is good with me, I will pack it right now.!",0,accepts_protected
+Works for me. Send the link across!...,0,accepts_protected
+"Don't send as G&S, send personal transfer so no fees apply....",2,pushes_friends_and_family
+No online transfers. Cash when we meet in person....,1,refuses_protected
+"Goods & Services is good with me, I will pack it right now.",0,accepts_protected
+I don't have PayPal configured. Cash only please.!,1,refuses_protected
+F&F only! I don't do Goods and Services. ok?,2,pushes_friends_and_family
+"No PayPal, cash only when we meet at the mall. Thanks.",1,refuses_protected
+"Make sure you tick Friends & Family when sending, not Goods. buddy",2,pushes_friends_and_family
+"No PayPal, cash only when we meet at the mall. Thanks.",1,refuses_protected
+"Cash only on pickup mate, no digital payments....",1,refuses_protected
+Works for me. Send the link across! ok?,0,accepts_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees. ok?,2,pushes_friends_and_family
+"No PayPal, cash only when we meet at the mall. Thanks.",1,refuses_protected
+"Sure, send the PayPal link and I'll confirm receipt. bro",0,accepts_protected
+F&F only! I don't do Goods and Services. please,2,pushes_friends_and_family
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. buddy",0,accepts_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. Thanks.",0,accepts_protected
+"I do not do payment links, strictly cash at exchange.",1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked. buddy,2,pushes_friends_and_family
+"Not interested in PayPal. If you can't pay cash in person, no deal. buddy",1,refuses_protected
+F&F or no deal. I'm not giving 4% to PayPal.,2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today. buddy",0,accepts_protected
+"Sure, send the PayPal link and I'll confirm receipt. Cool.",0,accepts_protected
+"No, in-person cash only. Too many scams online. bro",1,refuses_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. Let me know.,0,accepts_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days.,2,pushes_friends_and_family
+I don't use PayPal or any online apps. Cool.,1,refuses_protected
+I'm completely fine with Goods and Services. Send it over. Thanks.,0,accepts_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only. buddy",1,refuses_protected
+Cash in person only. No online payments. please,1,refuses_protected
+"No PayPal, cash only when we meet at the mall. thanks",1,refuses_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today. Let me know.",0,accepts_protected
+I only take payment as Friends and Family. Business payments get locked....,2,pushes_friends_and_family
+"Cash only on pickup mate, no digital payments. please",1,refuses_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it....",0,accepts_protected
+"No, in-person cash only. Too many scams online. ok?",1,refuses_protected
+"I do not do payment links, strictly cash at exchange. ok?",1,refuses_protected
+No online transfers. Cash when we meet in person. Thanks.,1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked.,2,pushes_friends_and_family
+"No, in-person cash only. Too many scams online. please",1,refuses_protected
+"No, in-person cash only. Too many scams online. Let me know.",1,refuses_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao.!",1,refuses_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. Cool.,2,pushes_friends_and_family
+Friends & Family only please. Otherwise the fee comes out of my pocket. buddy,2,pushes_friends_and_family
+No PayPal. Cash only. Let me know.,1,refuses_protected
+"I accept PayPal G&S, go ahead and send the payment. bro",0,accepts_protected
+I don't have PayPal configured. Cash only please.,1,refuses_protected
+"Cash only on pickup mate, no digital payments. bro",1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked. Let me know.,2,pushes_friends_and_family
+"Make sure you tick Friends & Family when sending, not Goods. bro",2,pushes_friends_and_family
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days.,2,pushes_friends_and_family
+No Goods & Services. Send as friend or find another seller. buddy,2,pushes_friends_and_family
+Send via F&F or the deal is off.!,2,pushes_friends_and_family
+"No, in-person cash only. Too many scams online.!",1,refuses_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. Let me know.",1,refuses_protected
+I'm completely fine with Goods and Services. Send it over. bro,0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. please",1,refuses_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only. Thanks.",1,refuses_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. Cool.",1,refuses_protected
+Sounds fair. Send the checkout link and I will prepare the package.,0,accepts_protected
+"Sure, send the PayPal link and I'll confirm receipt. thanks",0,accepts_protected
+"No PayPal, cash only when we meet at the mall. buddy",1,refuses_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. Cool.",2,pushes_friends_and_family
+"Not interested in PayPal. If you can't pay cash in person, no deal. bro",1,refuses_protected
+"Make sure you tick Friends & Family when sending, not Goods. ok?",2,pushes_friends_and_family
+"Pick up and cash only, take it or leave it. ok?",1,refuses_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo....",1,refuses_protected
+"Yeah that's totally fine, buyer protection is important. please",0,accepts_protected
+I'm completely fine with Goods and Services. Send it over. bro,0,accepts_protected
+F&F or no deal. I'm not giving 4% to PayPal. please,2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment....",0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. ok?",1,refuses_protected
+"I do not do payment links, strictly cash at exchange. bro",1,refuses_protected
+"That sounds great, I'm happy to use G&S protection. Thanks.",0,accepts_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal. please",0,accepts_protected
+Send it through PayPal friends option otherwise I cancel. bro,2,pushes_friends_and_family
+Send via F&F or the deal is off. buddy,2,pushes_friends_and_family
+"Cash only on pickup mate, no digital payments.!",1,refuses_protected
+"Sure thing, please send the invoice or checkout link. Cool.",0,accepts_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket. Cool.,2,pushes_friends_and_family
+"No PayPal, cash only when we meet at the mall. buddy",1,refuses_protected
+"Sure thing, please send the invoice or checkout link. Thanks.",0,accepts_protected
+"Don't send as G&S, send personal transfer so no fees apply. buddy",2,pushes_friends_and_family
+I don't do online checkout. Cash upon collection only. buddy,1,refuses_protected
+Select friends and family option on PayPal or I will refund immediately. bro,2,pushes_friends_and_family
+"No, in-person cash only. Too many scams online. bro",1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after. please,2,pushes_friends_and_family
+"No, in-person cash only. Too many scams online. Cool.",1,refuses_protected
+"Goods & Services is good with me, I will pack it right now. Let me know.",0,accepts_protected
+I only do face to face cash deals. Thanks.,1,refuses_protected
+F&F only! I don't do Goods and Services. please,2,pushes_friends_and_family
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon....",0,accepts_protected
+"Sure thing, please send the invoice or checkout link. Thanks.",0,accepts_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega.!",2,pushes_friends_and_family
+"Not interested in PayPal. If you can't pay cash in person, no deal. bro",1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after.!,2,pushes_friends_and_family
+No online transfers. Cash when we meet in person. please,1,refuses_protected
+"Sure thing, please send the invoice or checkout link. buddy",0,accepts_protected
+I'm completely fine with Goods and Services. Send it over. please,0,accepts_protected
+Approved! Send me the official link and I'll get it ready for dispatch. Cool.,0,accepts_protected
+"No, send it as Friends and Family so we avoid fees. please",2,pushes_friends_and_family
+"No, in-person cash only. Too many scams online. Cool.",1,refuses_protected
+"Pick up and cash only, take it or leave it. please",1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked....,2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup. buddy,1,refuses_protected
+I decline PayPal. Bank deposit or physical cash only. buddy,1,refuses_protected
+I don't have PayPal configured. Cash only please. buddy,1,refuses_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only. ok?",1,refuses_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. ok?",2,pushes_friends_and_family
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. bro",0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. bro",0,accepts_protected
+"Sure, send the PayPal link and I'll confirm receipt. Thanks.",0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. buddy",0,accepts_protected
+"No problem at all, I'll ship with tracking once paid. buddy",0,accepts_protected
+F&F only! I don't do Goods and Services. buddy,2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today. Let me know.",0,accepts_protected
+Send it through PayPal friends option otherwise I cancel....,2,pushes_friends_and_family
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. Thanks.",2,pushes_friends_and_family
+"Make sure you tick Friends & Family when sending, not Goods. Cool.",2,pushes_friends_and_family
+I only take payment as Friends and Family. Business payments get locked. please,2,pushes_friends_and_family
+I don't accept Goods & Services. ok?,1,refuses_protected
+"Pick up and cash only, take it or leave it. please",1,refuses_protected
+Works for me. Send the link across! Let me know.,0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. thanks",0,accepts_protected
+"No, send it as Friends and Family so we avoid fees. ok?",2,pushes_friends_and_family
+Sounds fair. Send the checkout link and I will prepare the package.!,0,accepts_protected
+"Strictly local pickup with cash. No shipping, no links. please",1,refuses_protected
+"I do not do payment links, strictly cash at exchange. Let me know.",1,refuses_protected
+Sounds fair. Send the checkout link and I will prepare the package. ok?,0,accepts_protected
+No cards or online links. Physical cash only upon meetup. Let me know.,1,refuses_protected
+F&F only! I don't do Goods and Services. ok?,2,pushes_friends_and_family
+"No, in-person cash only. Too many scams online. please",1,refuses_protected
+"Strictly local pickup with cash. No shipping, no links. Thanks.",1,refuses_protected
+No online transfers. Cash when we meet in person. thanks,1,refuses_protected
+"Why send as goods? Just choose family and friends, I have high ratings....",2,pushes_friends_and_family
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. bro",2,pushes_friends_and_family
+"Make sure you tick Friends & Family when sending, not Goods.",2,pushes_friends_and_family
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. thanks",2,pushes_friends_and_family
+I don't do online checkout. Cash upon collection only. Cool.,1,refuses_protected
+Select friends and family option on PayPal or I will refund immediately. ok?,2,pushes_friends_and_family
+"No, send it as Friends and Family so we avoid fees. Thanks.",2,pushes_friends_and_family
+"F&F only bro, I am selling as an individual and don't want business tax deductions. please",2,pushes_friends_and_family
+No Goods & Services. Send as friend or find another seller....,2,pushes_friends_and_family
+"Strictly local pickup with cash. No shipping, no links. buddy",1,refuses_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. Cool.",0,accepts_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days.!,2,pushes_friends_and_family
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. buddy",0,accepts_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon.!",0,accepts_protected
+I only take payment as Friends and Family. Business payments get locked. thanks,2,pushes_friends_and_family
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. buddy",2,pushes_friends_and_family
+"I do not do payment links, strictly cash at exchange. Cool.",1,refuses_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees.,2,pushes_friends_and_family
+Got it. Send the PayPal checkout link and I'll notify you once cleared.,0,accepts_protected
+"Yes, PayPal Goods and Services works for me.!",0,accepts_protected
+No Goods & Services. Send as friend or find another seller....,2,pushes_friends_and_family
+"Nahi bhai online payment nahi chalega, cash only aake le jao. ok?",1,refuses_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. Let me know.",0,accepts_protected
+Cash in person only. No online payments. thanks,1,refuses_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. please",0,accepts_protected
+I decline PayPal. Bank deposit or physical cash only. please,1,refuses_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao.",1,refuses_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. thanks",2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link.!,0,accepts_protected
+Approved! Send me the official link and I'll get it ready for dispatch. Thanks.,0,accepts_protected
+"I won't accept Goods and Services, send through Friends & Family. buddy",2,pushes_friends_and_family
+I don't use PayPal or any online apps.,1,refuses_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. Cool.",0,accepts_protected
+"Pick up and cash only, take it or leave it. please",1,refuses_protected
+"Why send as goods? Just choose family and friends, I have high ratings. bro",2,pushes_friends_and_family
+"I won't accept Goods and Services, send through Friends & Family. Cool.",2,pushes_friends_and_family
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. Cool.",0,accepts_protected
+F&F only! I don't do Goods and Services. Cool.,2,pushes_friends_and_family
+"I do not do payment links, strictly cash at exchange. please",1,refuses_protected
+"Yeah that's totally fine, buyer protection is important. ok?",0,accepts_protected
+I don't have PayPal configured. Cash only please. Let me know.,1,refuses_protected
+I don't use PayPal or any online apps. please,1,refuses_protected
+"Cash only on pickup mate, no digital payments. ok?",1,refuses_protected
+Approved! Send me the official link and I'll get it ready for dispatch. Cool.,0,accepts_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. ok?",1,refuses_protected
+I don't have PayPal configured. Cash only please. ok?,1,refuses_protected
+"Make sure you tick Friends & Family when sending, not Goods. Let me know.",2,pushes_friends_and_family
+"F&F only bro, I am selling as an individual and don't want business tax deductions....",2,pushes_friends_and_family
+F&F or no deal. I'm not giving 4% to PayPal. Cool.,2,pushes_friends_and_family
+"Sure thing, please send the invoice or checkout link. Cool.",0,accepts_protected
+No PayPal. Cash only. buddy,1,refuses_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. thanks",1,refuses_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. buddy",1,refuses_protected
+"Yeah that's totally fine, buyer protection is important.!",0,accepts_protected
+Works for me. Send the link across! buddy,0,accepts_protected
+"Pick up and cash only, take it or leave it....",1,refuses_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. please,2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today. buddy",0,accepts_protected
+I only do face to face cash deals.!,1,refuses_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. please",1,refuses_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. Cool.",2,pushes_friends_and_family
+I'm completely fine with Goods and Services. Send it over.,0,accepts_protected
+"Why send as goods? Just choose family and friends, I have high ratings. ok?",2,pushes_friends_and_family
+"Sorry, had too many issues with PayPal chargebacks, cash only. Thanks.",1,refuses_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it....",0,accepts_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. Thanks.",2,pushes_friends_and_family
+"That sounds great, I'm happy to use G&S protection. thanks",0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. Let me know.",0,accepts_protected
+"No, in-person cash only. Too many scams online....",1,refuses_protected
+No Goods & Services. Send as friend or find another seller.!,2,pushes_friends_and_family
+"Chalega, Goods and Services kar do, tracking de dunga kal. buddy",0,accepts_protected
+"That sounds great, I'm happy to use G&S protection. buddy",0,accepts_protected
+"Strictly local pickup with cash. No shipping, no links.!",1,refuses_protected
+"No, send it as Friends and Family so we avoid fees. Thanks.",2,pushes_friends_and_family
+"Yeah that's totally fine, buyer protection is important.",0,accepts_protected
+Sounds fair. Send the checkout link and I will prepare the package....,0,accepts_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. bro,2,pushes_friends_and_family
+"Strictly local pickup with cash. No shipping, no links. ok?",1,refuses_protected
+I don't have PayPal configured. Cash only please. please,1,refuses_protected
+"I won't accept Goods and Services, send through Friends & Family.!",2,pushes_friends_and_family
+"That sounds great, I'm happy to use G&S protection. bro",0,accepts_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. thanks",2,pushes_friends_and_family
+F&F or no deal. I'm not giving 4% to PayPal. bro,2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup. ok?,1,refuses_protected
+I'm completely fine with Goods and Services. Send it over. Cool.,0,accepts_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions....",2,pushes_friends_and_family
+"No, send it as Friends and Family so we avoid fees. ok?",2,pushes_friends_and_family
+"Sure, I understand safety concerns. Send the payment link whenever you're ready.!",0,accepts_protected
+No Goods & Services. Send as friend or find another seller. buddy,2,pushes_friends_and_family
+F&F or no deal. I'm not giving 4% to PayPal.,2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment. buddy",0,accepts_protected
+I don't do online checkout. Cash upon collection only.!,1,refuses_protected
+I decline PayPal. Bank deposit or physical cash only....,1,refuses_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. please",0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. thanks",1,refuses_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. please,0,accepts_protected
+"Cash only on pickup mate, no digital payments.!",1,refuses_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. buddy",0,accepts_protected
+"No PayPal, cash only when we meet at the mall. ok?",1,refuses_protected
+Approved! Send me the official link and I'll get it ready for dispatch. Thanks.,0,accepts_protected
+"Cash only on pickup mate, no digital payments. thanks",1,refuses_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions....",2,pushes_friends_and_family
+Cash in person only. No online payments....,1,refuses_protected
+That's safe for both of us. Please share the payment link....,0,accepts_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. ok?",2,pushes_friends_and_family
+F&F or no deal. I'm not giving 4% to PayPal.!,2,pushes_friends_and_family
+"Not interested in PayPal. If you can't pay cash in person, no deal. please",1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked. thanks,2,pushes_friends_and_family
+Works for me. Send the link across!!,0,accepts_protected
+I don't accept Goods & Services. bro,1,refuses_protected
+Approved! Send me the official link and I'll get it ready for dispatch. ok?,0,accepts_protected
+Sounds fair. Send the checkout link and I will prepare the package. Let me know.,0,accepts_protected
+Only friends and family transfer accepted. I'm shipping right after. bro,2,pushes_friends_and_family
+I don't have PayPal configured. Cash only please. Cool.,1,refuses_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo....",1,refuses_protected
+I only do face to face cash deals. Let me know.,1,refuses_protected
+"Pick up and cash only, take it or leave it. thanks",1,refuses_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal. ok?",0,accepts_protected
+"I won't accept Goods and Services, send through Friends & Family. buddy",2,pushes_friends_and_family
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. thanks",0,accepts_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. thanks",2,pushes_friends_and_family
+"No, send it as Friends and Family so we avoid fees. buddy",2,pushes_friends_and_family
+Friends & Family only please. Otherwise the fee comes out of my pocket. Cool.,2,pushes_friends_and_family
+I only do face to face cash deals. Cool.,1,refuses_protected
+I don't use PayPal or any online apps. Cool.,1,refuses_protected
+"Pick up and cash only, take it or leave it.",1,refuses_protected
+Send via F&F or the deal is off. bro,2,pushes_friends_and_family
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. buddy,2,pushes_friends_and_family
+"Pick up and cash only, take it or leave it. please",1,refuses_protected
+"Pick up and cash only, take it or leave it.!",1,refuses_protected
+"Yeah that's totally fine, buyer protection is important. Let me know.",0,accepts_protected
+"I accept PayPal G&S, go ahead and send the payment.!",0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. ok?",1,refuses_protected
+"I accept PayPal G&S, go ahead and send the payment. Thanks.",0,accepts_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees. Thanks.,2,pushes_friends_and_family
+"Don't send as G&S, send personal transfer so no fees apply. Thanks.",2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link. Cool.,0,accepts_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal. please",0,accepts_protected
+"Strictly local pickup with cash. No shipping, no links.",1,refuses_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal. Thanks.",0,accepts_protected
+F&F only! I don't do Goods and Services. Thanks.,2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment....",0,accepts_protected
+Sounds fair. Send the checkout link and I will prepare the package. thanks,0,accepts_protected
+Select friends and family option on PayPal or I will refund immediately. thanks,2,pushes_friends_and_family
+"Don't send as G&S, send personal transfer so no fees apply. please",2,pushes_friends_and_family
+I'm completely fine with Goods and Services. Send it over. Let me know.,0,accepts_protected
+F&F only! I don't do Goods and Services. buddy,2,pushes_friends_and_family
+I only do face to face cash deals. ok?,1,refuses_protected
+"No, send it as Friends and Family so we avoid fees. ok?",2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link. Cool.,0,accepts_protected
+"Why send as goods? Just choose family and friends, I have high ratings.!",2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today.",0,accepts_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket. Thanks.,2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup. ok?,1,refuses_protected
+I don't use PayPal or any online apps. thanks,1,refuses_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. thanks",2,pushes_friends_and_family
+Send via F&F or the deal is off. Thanks.,2,pushes_friends_and_family
+No PayPal. Cash only.,1,refuses_protected
+That's safe for both of us. Please share the payment link. buddy,0,accepts_protected
+"Goods & Services is good with me, I will pack it right now.",0,accepts_protected
+I'm completely fine with Goods and Services. Send it over.!,0,accepts_protected
+No cards or online links. Physical cash only upon meetup. thanks,1,refuses_protected
+"Cash only on pickup mate, no digital payments. bro",1,refuses_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees. Let me know.,2,pushes_friends_and_family
+"I do not do payment links, strictly cash at exchange.!",1,refuses_protected
+"Make sure you tick Friends & Family when sending, not Goods. thanks",2,pushes_friends_and_family
+Only friends and family transfer accepted. I'm shipping right after. Thanks.,2,pushes_friends_and_family
+"I won't accept Goods and Services, send through Friends & Family. buddy",2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today.!",0,accepts_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared.,0,accepts_protected
+"Goods & Services is good with me, I will pack it right now. ok?",0,accepts_protected
+F&F or no deal. I'm not giving 4% to PayPal....,2,pushes_friends_and_family
+Select friends and family option on PayPal or I will refund immediately. buddy,2,pushes_friends_and_family
+"Don't send as G&S, send personal transfer so no fees apply.!",2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link.!,0,accepts_protected
+No cards or online links. Physical cash only upon meetup. ok?,1,refuses_protected
+"I do not do payment links, strictly cash at exchange....",1,refuses_protected
+That's safe for both of us. Please share the payment link.!,0,accepts_protected
+Send via F&F or the deal is off. thanks,2,pushes_friends_and_family
+I don't do online checkout. Cash upon collection only. Let me know.,1,refuses_protected
+I'm completely fine with Goods and Services. Send it over. thanks,0,accepts_protected
+I don't have PayPal configured. Cash only please. buddy,1,refuses_protected
+I don't use PayPal or any online apps....,1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after....,2,pushes_friends_and_family
+"No PayPal, cash only when we meet at the mall....",1,refuses_protected
+"Strictly local pickup with cash. No shipping, no links....",1,refuses_protected
+Select friends and family option on PayPal or I will refund immediately. Let me know.,2,pushes_friends_and_family
+Approved! Send me the official link and I'll get it ready for dispatch. Cool.,0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. bro",0,accepts_protected
+I don't have PayPal configured. Cash only please. please,1,refuses_protected
+I'm completely fine with Goods and Services. Send it over. Thanks.,0,accepts_protected
+I'm completely fine with Goods and Services. Send it over.,0,accepts_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal. please",0,accepts_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only. Thanks.",1,refuses_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket. buddy,2,pushes_friends_and_family
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. bro",0,accepts_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. buddy",0,accepts_protected
+Send via F&F or the deal is off. Cool.,2,pushes_friends_and_family
+"Pick up and cash only, take it or leave it. Let me know.",1,refuses_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal....",1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after....,2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment. thanks",0,accepts_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today. bro",0,accepts_protected
+"Sure thing, please send the invoice or checkout link. Cool.",0,accepts_protected
+"Yes, PayPal Goods and Services works for me. bro",0,accepts_protected
+"I do not do payment links, strictly cash at exchange. bro",1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after. buddy,2,pushes_friends_and_family
+Send it through PayPal friends option otherwise I cancel. Cool.,2,pushes_friends_and_family
+"Pick up and cash only, take it or leave it. ok?",1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked. Cool.,2,pushes_friends_and_family
+I don't accept Goods & Services. Thanks.,1,refuses_protected
+"No PayPal, cash only when we meet at the mall. Let me know.",1,refuses_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. thanks",2,pushes_friends_and_family
+"No, send it as Friends and Family so we avoid fees. ok?",2,pushes_friends_and_family
+"No, send it as Friends and Family so we avoid fees. please",2,pushes_friends_and_family
+Send via F&F or the deal is off....,2,pushes_friends_and_family
+I don't do online checkout. Cash upon collection only. Thanks.,1,refuses_protected
+"Why send as goods? Just choose family and friends, I have high ratings. Cool.",2,pushes_friends_and_family
+"I do not do payment links, strictly cash at exchange. ok?",1,refuses_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today....",0,accepts_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. bro",2,pushes_friends_and_family
+"Okay, let's do it via PayPal Goods. Drop the link here. ok?",0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it....",0,accepts_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. Cool.",2,pushes_friends_and_family
+"Pick up and cash only, take it or leave it. Let me know.",1,refuses_protected
+"I accept PayPal G&S, go ahead and send the payment. please",0,accepts_protected
+Send via F&F or the deal is off. bro,2,pushes_friends_and_family
+Only friends and family transfer accepted. I'm shipping right after. thanks,2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment. Cool.",0,accepts_protected
+"Cash only on pickup mate, no digital payments. Thanks.",1,refuses_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. buddy,2,pushes_friends_and_family
+"Not interested in PayPal. If you can't pay cash in person, no deal.!",1,refuses_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. thanks",1,refuses_protected
+"I accept PayPal G&S, go ahead and send the payment. thanks",0,accepts_protected
+"I accept PayPal G&S, go ahead and send the payment.!",0,accepts_protected
+No PayPal. Cash only.!,1,refuses_protected
+"I won't accept Goods and Services, send through Friends & Family. thanks",2,pushes_friends_and_family
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe. ok?",2,pushes_friends_and_family
+"Yes, PayPal Goods and Services works for me. bro",0,accepts_protected
+"Goods & Services is good with me, I will pack it right now. Thanks.",0,accepts_protected
+"That sounds great, I'm happy to use G&S protection. buddy",0,accepts_protected
+"Pick up and cash only, take it or leave it. ok?",1,refuses_protected
+I don't accept Goods & Services.!,1,refuses_protected
+Cash in person only. No online payments. bro,1,refuses_protected
+I decline PayPal. Bank deposit or physical cash only. ok?,1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked. thanks,2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today. buddy",0,accepts_protected
+"I accept PayPal G&S, go ahead and send the payment.",0,accepts_protected
+"Yeah that's totally fine, buyer protection is important. Thanks.",0,accepts_protected
+"Yeah that's totally fine, buyer protection is important....",0,accepts_protected
+I only do face to face cash deals. please,1,refuses_protected
+F&F or no deal. I'm not giving 4% to PayPal. buddy,2,pushes_friends_and_family
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo.",1,refuses_protected
+"Yes, PayPal Goods and Services works for me....",0,accepts_protected
+I decline PayPal. Bank deposit or physical cash only. Cool.,1,refuses_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. buddy",1,refuses_protected
+"No PayPal, cash only when we meet at the mall. buddy",1,refuses_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. buddy",2,pushes_friends_and_family
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. Thanks.,2,pushes_friends_and_family
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. buddy",2,pushes_friends_and_family
+"No PayPal, cash only when we meet at the mall....",1,refuses_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today. ok?",0,accepts_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal. thanks",0,accepts_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only. thanks",1,refuses_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal.",0,accepts_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only. Thanks.",1,refuses_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket.!,2,pushes_friends_and_family
+I only take payment as Friends and Family. Business payments get locked. Thanks.,2,pushes_friends_and_family
+Send it through PayPal friends option otherwise I cancel. bro,2,pushes_friends_and_family
+I decline PayPal. Bank deposit or physical cash only. buddy,1,refuses_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. bro",2,pushes_friends_and_family
+"Yeah that's totally fine, buyer protection is important. Let me know.",0,accepts_protected
+No Goods & Services. Send as friend or find another seller. Let me know.,2,pushes_friends_and_family
+I only take payment as Friends and Family. Business payments get locked. ok?,2,pushes_friends_and_family
+"Chalega, Goods and Services kar do, tracking de dunga kal. bro",0,accepts_protected
+"No, in-person cash only. Too many scams online. Thanks.",1,refuses_protected
+"That sounds great, I'm happy to use G&S protection.!",0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. Let me know.",1,refuses_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket. bro,2,pushes_friends_and_family
+I only do face to face cash deals. Thanks.,1,refuses_protected
+Send via F&F or the deal is off....,2,pushes_friends_and_family
+"I do not do payment links, strictly cash at exchange. please",1,refuses_protected
+No Goods & Services. Send as friend or find another seller. ok?,2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment....",0,accepts_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today. please",0,accepts_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. bro",1,refuses_protected
+"I accept PayPal G&S, go ahead and send the payment. Cool.",0,accepts_protected
+"Why send as goods? Just choose family and friends, I have high ratings. Cool.",2,pushes_friends_and_family
+F&F only! I don't do Goods and Services. thanks,2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link. please,0,accepts_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. bro,2,pushes_friends_and_family
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe. buddy",2,pushes_friends_and_family
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. Let me know.",0,accepts_protected
+"Okay, let's do it via PayPal Goods. Drop the link here....",0,accepts_protected
+F&F only! I don't do Goods and Services. buddy,2,pushes_friends_and_family
+No online transfers. Cash when we meet in person. thanks,1,refuses_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. Thanks.",0,accepts_protected
+No cards or online links. Physical cash only upon meetup.,1,refuses_protected
+"No, send it as Friends and Family so we avoid fees. thanks",2,pushes_friends_and_family
+Send via F&F or the deal is off.,2,pushes_friends_and_family
+"That sounds great, I'm happy to use G&S protection....",0,accepts_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days.!,2,pushes_friends_and_family
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. bro",1,refuses_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. buddy",2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment....",0,accepts_protected
+"Strictly local pickup with cash. No shipping, no links.",1,refuses_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. thanks",0,accepts_protected
+I don't use PayPal or any online apps. Let me know.,1,refuses_protected
+"I do not do payment links, strictly cash at exchange. thanks",1,refuses_protected
+I'm completely fine with Goods and Services. Send it over. ok?,0,accepts_protected
+I'm completely fine with Goods and Services. Send it over. buddy,0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. please",1,refuses_protected
+I don't use PayPal or any online apps....,1,refuses_protected
+No cards or online links. Physical cash only upon meetup.!,1,refuses_protected
+"Why send as goods? Just choose family and friends, I have high ratings.!",2,pushes_friends_and_family
+Cash in person only. No online payments.!,1,refuses_protected
+I don't accept Goods & Services. ok?,1,refuses_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal. Let me know.",0,accepts_protected
+"Why send as goods? Just choose family and friends, I have high ratings....",2,pushes_friends_and_family
+"Chalega, Goods and Services kar do, tracking de dunga kal. please",0,accepts_protected
+"No, send it as Friends and Family so we avoid fees. ok?",2,pushes_friends_and_family
+"Nahi bhai online payment nahi chalega, cash only aake le jao. Cool.",1,refuses_protected
+Works for me. Send the link across!,0,accepts_protected
+"I do not do payment links, strictly cash at exchange. Let me know.",1,refuses_protected
+Approved! Send me the official link and I'll get it ready for dispatch. Let me know.,0,accepts_protected
+F&F or no deal. I'm not giving 4% to PayPal. bro,2,pushes_friends_and_family
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon....",0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. buddy",0,accepts_protected
+"Yeah that's totally fine, buyer protection is important.",0,accepts_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready.",0,accepts_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. Thanks.",0,accepts_protected
+"Don't send as G&S, send personal transfer so no fees apply. thanks",2,pushes_friends_and_family
+Send via F&F or the deal is off. thanks,2,pushes_friends_and_family
+I don't have PayPal configured. Cash only please. ok?,1,refuses_protected
+Sounds fair. Send the checkout link and I will prepare the package. buddy,0,accepts_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees. Let me know.,2,pushes_friends_and_family
+No online transfers. Cash when we meet in person. please,1,refuses_protected
+F&F only! I don't do Goods and Services. Let me know.,2,pushes_friends_and_family
+"Yes, PayPal Goods and Services works for me.",0,accepts_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions.",2,pushes_friends_and_family
+"Cash only on pickup mate, no digital payments.!",1,refuses_protected
+I don't do online checkout. Cash upon collection only.,1,refuses_protected
+"Why send as goods? Just choose family and friends, I have high ratings.!",2,pushes_friends_and_family
+No Goods & Services. Send as friend or find another seller. Let me know.,2,pushes_friends_and_family
+"No, send it as Friends and Family so we avoid fees. ok?",2,pushes_friends_and_family
+No PayPal. Cash only. Cool.,1,refuses_protected
+"F&F only bro, I am selling as an individual and don't want business tax deductions. ok?",2,pushes_friends_and_family
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. bro",2,pushes_friends_and_family
+"Sure, send the PayPal link and I'll confirm receipt. Thanks.",0,accepts_protected
+"Sure, send the PayPal link and I'll confirm receipt. bro",0,accepts_protected
+F&F only! I don't do Goods and Services. buddy,2,pushes_friends_and_family
+Cash in person only. No online payments. please,1,refuses_protected
+I don't have PayPal configured. Cash only please....,1,refuses_protected
+"Make sure you tick Friends & Family when sending, not Goods. ok?",2,pushes_friends_and_family
+"F&F only bro, I am selling as an individual and don't want business tax deductions. Cool.",2,pushes_friends_and_family
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. thanks",2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup.!,1,refuses_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. Cool.",1,refuses_protected
+"No problem at all, I'll ship with tracking once paid. Thanks.",0,accepts_protected
+"Yeah that's totally fine, buyer protection is important.!",0,accepts_protected
+"Strictly local pickup with cash. No shipping, no links. thanks",1,refuses_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. ok?",0,accepts_protected
+I don't have PayPal configured. Cash only please. Let me know.,1,refuses_protected
+"Pick up and cash only, take it or leave it. please",1,refuses_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. Let me know.",2,pushes_friends_and_family
+"No problem at all, I'll ship with tracking once paid....",0,accepts_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. Let me know.",0,accepts_protected
+"Sure, send the PayPal link and I'll confirm receipt....",0,accepts_protected
+I only take payment as Friends and Family. Business payments get locked. thanks,2,pushes_friends_and_family
+Works for me. Send the link across! Cool.,0,accepts_protected
+Approved! Send me the official link and I'll get it ready for dispatch. buddy,0,accepts_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only. ok?",1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked. please,2,pushes_friends_and_family
+Approved! Send me the official link and I'll get it ready for dispatch. ok?,0,accepts_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today. bro",0,accepts_protected
+Cash in person only. No online payments. Thanks.,1,refuses_protected
+F&F or no deal. I'm not giving 4% to PayPal....,2,pushes_friends_and_family
+Use F and F option on PayPal so neither of us pays unnecessary fees. Let me know.,2,pushes_friends_and_family
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega.!",2,pushes_friends_and_family
+I only do face to face cash deals. bro,1,refuses_protected
+"No PayPal, cash only when we meet at the mall.",1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked. Thanks.,2,pushes_friends_and_family
+Send via F&F or the deal is off.!,2,pushes_friends_and_family
+Cash in person only. No online payments.,1,refuses_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods.",2,pushes_friends_and_family
+Only friends and family transfer accepted. I'm shipping right after. Cool.,2,pushes_friends_and_family
+"Sure, send the PayPal link and I'll confirm receipt....",0,accepts_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. Thanks.",1,refuses_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only. ok?",1,refuses_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. Thanks.,2,pushes_friends_and_family
+Cash in person only. No online payments.!,1,refuses_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared.!,0,accepts_protected
+Select friends and family option on PayPal or I will refund immediately. Cool.,2,pushes_friends_and_family
+"Why send as goods? Just choose family and friends, I have high ratings. Thanks.",2,pushes_friends_and_family
+F&F only! I don't do Goods and Services. buddy,2,pushes_friends_and_family
+"Nahi bhai online payment nahi chalega, cash only aake le jao. thanks",1,refuses_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared.,0,accepts_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees. thanks,2,pushes_friends_and_family
+I decline PayPal. Bank deposit or physical cash only. bro,1,refuses_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees. Let me know.,2,pushes_friends_and_family
+I'm completely fine with Goods and Services. Send it over. Thanks.,0,accepts_protected
+"Strictly local pickup with cash. No shipping, no links. thanks",1,refuses_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket.!,2,pushes_friends_and_family
+"I do not do payment links, strictly cash at exchange. ok?",1,refuses_protected
+I don't do online checkout. Cash upon collection only.,1,refuses_protected
+"I won't accept Goods and Services, send through Friends & Family.",2,pushes_friends_and_family
+"That sounds great, I'm happy to use G&S protection. ok?",0,accepts_protected
+Send via F&F or the deal is off. Cool.,2,pushes_friends_and_family
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. ok?",0,accepts_protected
+I only do face to face cash deals. buddy,1,refuses_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. Thanks.",0,accepts_protected
+"Sure thing, please send the invoice or checkout link. thanks",0,accepts_protected
+I don't use PayPal or any online apps. Let me know.,1,refuses_protected
+No Goods & Services. Send as friend or find another seller. please,2,pushes_friends_and_family
+Use F and F option on PayPal so neither of us pays unnecessary fees. thanks,2,pushes_friends_and_family
+"No, in-person cash only. Too many scams online. bro",1,refuses_protected
+"Cash only on pickup mate, no digital payments. ok?",1,refuses_protected
+I only do face to face cash deals. ok?,1,refuses_protected
+No cards or online links. Physical cash only upon meetup....,1,refuses_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket....,2,pushes_friends_and_family
+"Why send as goods? Just choose family and friends, I have high ratings. thanks",2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today. thanks",0,accepts_protected
+"No problem at all, I'll ship with tracking once paid. Cool.",0,accepts_protected
+Approved! Send me the official link and I'll get it ready for dispatch. ok?,0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it....",0,accepts_protected
+I'm completely fine with Goods and Services. Send it over. Let me know.,0,accepts_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. ok?",1,refuses_protected
+"Don't send as G&S, send personal transfer so no fees apply. please",2,pushes_friends_and_family
+No Goods & Services. Send as friend or find another seller....,2,pushes_friends_and_family
+Approved! Send me the official link and I'll get it ready for dispatch....,0,accepts_protected
+"No problem at all, I'll ship with tracking once paid. Let me know.",0,accepts_protected
+"Why send as goods? Just choose family and friends, I have high ratings. Cool.",2,pushes_friends_and_family
+I don't have PayPal configured. Cash only please....,1,refuses_protected
+No cards or online links. Physical cash only upon meetup.,1,refuses_protected
+"No PayPal, cash only when we meet at the mall. thanks",1,refuses_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. thanks",1,refuses_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal. bro",0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. Cool.",1,refuses_protected
+"Make sure you tick Friends & Family when sending, not Goods. Let me know.",2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link. please,0,accepts_protected
+I don't have PayPal configured. Cash only please. please,1,refuses_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal. buddy",0,accepts_protected
+"Why send as goods? Just choose family and friends, I have high ratings. thanks",2,pushes_friends_and_family
+Got it. Send the PayPal checkout link and I'll notify you once cleared....,0,accepts_protected
+I decline PayPal. Bank deposit or physical cash only. Let me know.,1,refuses_protected
+"Sure thing, please send the invoice or checkout link. Cool.",0,accepts_protected
+Cash in person only. No online payments. please,1,refuses_protected
+Select friends and family option on PayPal or I will refund immediately. please,2,pushes_friends_and_family
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. Let me know.",0,accepts_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. Thanks.,0,accepts_protected
+"No PayPal, cash only when we meet at the mall. ok?",1,refuses_protected
+No cards or online links. Physical cash only upon meetup.!,1,refuses_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. thanks",2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup. thanks,1,refuses_protected
+"That sounds great, I'm happy to use G&S protection. bro",0,accepts_protected
+Send via F&F or the deal is off. Let me know.,2,pushes_friends_and_family
+"No, send it as Friends and Family so we avoid fees. please",2,pushes_friends_and_family
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. thanks",1,refuses_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. Let me know.,2,pushes_friends_and_family
+"No, send it as Friends and Family so we avoid fees. ok?",2,pushes_friends_and_family
+Use F and F option on PayPal so neither of us pays unnecessary fees.!,2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment.",0,accepts_protected
+Cash in person only. No online payments.!,1,refuses_protected
+"Okay, let's do it via PayPal Goods. Drop the link here. buddy",0,accepts_protected
+Only friends and family transfer accepted. I'm shipping right after. buddy,2,pushes_friends_and_family
+Got it. Send the PayPal checkout link and I'll notify you once cleared. buddy,0,accepts_protected
+"Sure, send the PayPal link and I'll confirm receipt. Thanks.",0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it.",0,accepts_protected
+Send via F&F or the deal is off. ok?,2,pushes_friends_and_family
+I don't accept Goods & Services. thanks,1,refuses_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. please",1,refuses_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. Let me know.",0,accepts_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today.!",0,accepts_protected
+"No problem at all, I'll ship with tracking once paid. thanks",0,accepts_protected
+"I won't accept Goods and Services, send through Friends & Family. Cool.",2,pushes_friends_and_family
+"Not interested in PayPal. If you can't pay cash in person, no deal. please",1,refuses_protected
+Works for me. Send the link across!...,0,accepts_protected
+"That sounds great, I'm happy to use G&S protection. buddy",0,accepts_protected
+"Yes, PayPal Goods and Services works for me. bro",0,accepts_protected
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe.!",2,pushes_friends_and_family
+"Yeah that's totally fine, buyer protection is important. thanks",0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao.",1,refuses_protected
+"Sure, send the PayPal link and I'll confirm receipt. thanks",0,accepts_protected
+I don't accept Goods & Services.,1,refuses_protected
+Sounds fair. Send the checkout link and I will prepare the package. Cool.,0,accepts_protected
+"I do not do payment links, strictly cash at exchange. Thanks.",1,refuses_protected
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe. buddy",2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment. thanks",0,accepts_protected
+"Don't send as G&S, send personal transfer so no fees apply.!",2,pushes_friends_and_family
+"Cash only on pickup mate, no digital payments.",1,refuses_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal.!",0,accepts_protected
+"No problem at all, I'll ship with tracking once paid. Cool.",0,accepts_protected
+F&F only! I don't do Goods and Services.,2,pushes_friends_and_family
+Friends & Family only please. Otherwise the fee comes out of my pocket. please,2,pushes_friends_and_family
+"No, in-person cash only. Too many scams online. Thanks.",1,refuses_protected
+I don't do online checkout. Cash upon collection only. buddy,1,refuses_protected
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe. please",2,pushes_friends_and_family
+Cash in person only. No online payments. thanks,1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after. Thanks.,2,pushes_friends_and_family
+"No PayPal, cash only when we meet at the mall....",1,refuses_protected
+"Sirf cash chahiye, no PayPal or wallets. Milne par pay karo. Let me know.",1,refuses_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today. please",0,accepts_protected
+"I accept PayPal G&S, go ahead and send the payment. buddy",0,accepts_protected
+I don't have PayPal configured. Cash only please.!,1,refuses_protected
+Send it through PayPal friends option otherwise I cancel. Thanks.,2,pushes_friends_and_family
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. bro",2,pushes_friends_and_family
+Use F and F option on PayPal so neither of us pays unnecessary fees.,2,pushes_friends_and_family
+"Yes, PayPal Goods and Services works for me.",0,accepts_protected
+I don't do online checkout. Cash upon collection only....,1,refuses_protected
+I don't accept Goods & Services. thanks,1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked. bro,2,pushes_friends_and_family
+I don't accept Goods & Services. please,1,refuses_protected
+"No problem at all, I'll ship with tracking once paid. Cool.",0,accepts_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega.!",2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup. buddy,1,refuses_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today.",0,accepts_protected
+Cash in person only. No online payments. Let me know.,1,refuses_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. Cool.",1,refuses_protected
+That's safe for both of us. Please share the payment link. Let me know.,0,accepts_protected
+Works for me. Send the link across! Thanks.,0,accepts_protected
+"Pick up and cash only, take it or leave it. Thanks.",1,refuses_protected
+I don't have PayPal configured. Cash only please. ok?,1,refuses_protected
+"I accept PayPal G&S, go ahead and send the payment. bro",0,accepts_protected
+"Nahi bhai online payment nahi chalega, cash only aake le jao. buddy",1,refuses_protected
+"Strictly local pickup with cash. No shipping, no links. Let me know.",1,refuses_protected
+"Yes, PayPal Goods and Services works for me. thanks",0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. buddy",0,accepts_protected
+"Yes, PayPal Goods and Services works for me. Thanks.",0,accepts_protected
+"Don't send as G&S, send personal transfer so no fees apply....",2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment. Thanks.",0,accepts_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. buddy,0,accepts_protected
+"I accept PayPal G&S, go ahead and send the payment. Let me know.",0,accepts_protected
+F&F only! I don't do Goods and Services.!,2,pushes_friends_and_family
+I only do face to face cash deals. Cool.,1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked. buddy,2,pushes_friends_and_family
+"F&F only bro, I am selling as an individual and don't want business tax deductions. Thanks.",2,pushes_friends_and_family
+"Strictly local pickup with cash. No shipping, no links. Let me know.",1,refuses_protected
+Sounds fair. Send the checkout link and I will prepare the package. Thanks.,0,accepts_protected
+"Strictly local pickup with cash. No shipping, no links. Cool.",1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked. Let me know.,2,pushes_friends_and_family
+"Sure thing, please send the invoice or checkout link. ok?",0,accepts_protected
+Sounds fair. Send the checkout link and I will prepare the package. thanks,0,accepts_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. Thanks.",1,refuses_protected
+I don't accept Goods & Services. Cool.,1,refuses_protected
+I don't have PayPal configured. Cash only please. Cool.,1,refuses_protected
+"Strictly local pickup with cash. No shipping, no links. please",1,refuses_protected
+"No PayPal, cash only when we meet at the mall. bro",1,refuses_protected
+I don't have PayPal configured. Cash only please. Let me know.,1,refuses_protected
+"Pick up and cash only, take it or leave it....",1,refuses_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees. ok?,2,pushes_friends_and_family
+Use F and F option on PayPal so neither of us pays unnecessary fees. bro,2,pushes_friends_and_family
+Approved! Send me the official link and I'll get it ready for dispatch. ok?,0,accepts_protected
+"Sure, send the PayPal link and I'll confirm receipt. bro",0,accepts_protected
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe. bro",2,pushes_friends_and_family
+I don't use PayPal or any online apps.,1,refuses_protected
+I only do face to face cash deals. buddy,1,refuses_protected
+No Goods & Services. Send as friend or find another seller. Let me know.,2,pushes_friends_and_family
+I don't use PayPal or any online apps.,1,refuses_protected
+"Cash only on pickup mate, no digital payments. please",1,refuses_protected
+"Make sure you tick Friends & Family when sending, not Goods.!",2,pushes_friends_and_family
+No Goods & Services. Send as friend or find another seller....,2,pushes_friends_and_family
+Use F and F option on PayPal so neither of us pays unnecessary fees. bro,2,pushes_friends_and_family
+"No, in-person cash only. Too many scams online. Let me know.",1,refuses_protected
+Only friends and family transfer accepted. I'm shipping right after.!,2,pushes_friends_and_family
+"I won't accept Goods and Services, send through Friends & Family. ok?",2,pushes_friends_and_family
+"Goods & Services is good with me, I will pack it right now.",0,accepts_protected
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. thanks",0,accepts_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. buddy",0,accepts_protected
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. thanks",2,pushes_friends_and_family
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. please,2,pushes_friends_and_family
+I only take payment as Friends and Family. Business payments get locked. bro,2,pushes_friends_and_family
+"That sounds great, I'm happy to use G&S protection. bro",0,accepts_protected
+Works for me. Send the link across! ok?,0,accepts_protected
+F&F or no deal. I'm not giving 4% to PayPal. Cool.,2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link. Cool.,0,accepts_protected
+F&F only! I don't do Goods and Services. Thanks.,2,pushes_friends_and_family
+Use F and F option on PayPal so neither of us pays unnecessary fees. bro,2,pushes_friends_and_family
+"Please select 'Sending to a friend / Friends and Family', not paying for goods. thanks",2,pushes_friends_and_family
+Approved! Send me the official link and I'll get it ready for dispatch....,0,accepts_protected
+"Yes, PayPal Goods and Services works for me. thanks",0,accepts_protected
+F&F or no deal. I'm not giving 4% to PayPal. Cool.,2,pushes_friends_and_family
+"Okay, let's do it via PayPal Goods. Drop the link here. Thanks.",0,accepts_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only. Let me know.",1,refuses_protected
+"No, in-person cash only. Too many scams online.",1,refuses_protected
+"I won't accept Goods and Services, send through Friends & Family. please",2,pushes_friends_and_family
+"Cash only on pickup mate, no digital payments....",1,refuses_protected
+"Sirf F&F chalega, 21 days hold nahi chahiye mujhe. Thanks.",2,pushes_friends_and_family
+"Sure thing, please send the invoice or checkout link.!",0,accepts_protected
+No PayPal. Cash only. buddy,1,refuses_protected
+"Pick up and cash only, take it or leave it. buddy",1,refuses_protected
+"Pick up and cash only, take it or leave it. please",1,refuses_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal....",0,accepts_protected
+"I won't accept Goods and Services, send through Friends & Family. thanks",2,pushes_friends_and_family
+"Okay, let's do it via PayPal Goods. Drop the link here. bro",0,accepts_protected
+"Don't send as G&S, send personal transfer so no fees apply. buddy",2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment. Thanks.",0,accepts_protected
+Works for me. Send the link across! Cool.,0,accepts_protected
+Got it. Send the PayPal checkout link and I'll notify you once cleared. Thanks.,0,accepts_protected
+Only friends and family transfer accepted. I'm shipping right after. buddy,2,pushes_friends_and_family
+I only take payment as Friends and Family. Business payments get locked.!,2,pushes_friends_and_family
+"Sorry, had too many issues with PayPal chargebacks, cash only. please",1,refuses_protected
+No PayPal. Cash only. please,1,refuses_protected
+No online transfers. Cash when we meet in person. buddy,1,refuses_protected
+"I accept PayPal G&S, go ahead and send the payment. Let me know.",0,accepts_protected
+"Not interested in PayPal. If you can't pay cash in person, no deal. bro",1,refuses_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. ok?",0,accepts_protected
+That's safe for both of us. Please share the payment link. please,0,accepts_protected
+"I won't accept Goods and Services, send through Friends & Family. buddy",2,pushes_friends_and_family
+"No, send it as Friends and Family so we avoid fees. Cool.",2,pushes_friends_and_family
+"Make sure you tick Friends & Family when sending, not Goods. bro",2,pushes_friends_and_family
+"Sorry, had too many issues with PayPal chargebacks, cash only. ok?",1,refuses_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees. Cool.,2,pushes_friends_and_family
+No PayPal. Cash only. thanks,1,refuses_protected
+Works for me. Send the link across!!,0,accepts_protected
+I don't have PayPal configured. Cash only please. ok?,1,refuses_protected
+I don't accept Goods & Services. thanks,1,refuses_protected
+F&F or no deal. I'm not giving 4% to PayPal. buddy,2,pushes_friends_and_family
+No cards or online links. Physical cash only upon meetup. Cool.,1,refuses_protected
+"I won't accept Goods and Services, send through Friends & Family. please",2,pushes_friends_and_family
+"Sorry, had too many issues with PayPal chargebacks, cash only. buddy",1,refuses_protected
+"Chalega, Goods and Services kar do, tracking de dunga kal.!",0,accepts_protected
+"Sure thing, please send the invoice or checkout link.",0,accepts_protected
+"Yes, PayPal Goods and Services works for me. ok?",0,accepts_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket. ok?,2,pushes_friends_and_family
+No Goods & Services. Send as friend or find another seller. thanks,2,pushes_friends_and_family
+"Yes perfect, as soon as the PayPal G&S confirmation arrives I will post it. thanks",0,accepts_protected
+"Yeah that's totally fine, buyer protection is important....",0,accepts_protected
+"Why send as goods? Just choose family and friends, I have high ratings.!",2,pushes_friends_and_family
+Sounds fair. Send the checkout link and I will prepare the package. Cool.,0,accepts_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only. thanks",1,refuses_protected
+"Why send as goods? Just choose family and friends, I have high ratings. thanks",2,pushes_friends_and_family
+"Why send as goods? Just choose family and friends, I have high ratings.!",2,pushes_friends_and_family
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. Cool.",0,accepts_protected
+Friends & Family only please. Otherwise the fee comes out of my pocket. bro,2,pushes_friends_and_family
+Friends & Family only please. Otherwise the fee comes out of my pocket. ok?,2,pushes_friends_and_family
+Only friends and family transfer accepted. I'm shipping right after. Let me know.,2,pushes_friends_and_family
+"Sure, send the PayPal link and I'll confirm receipt.!",0,accepts_protected
+I don't accept Goods & Services. ok?,1,refuses_protected
+"I won't accept Goods and Services, send through Friends & Family....",2,pushes_friends_and_family
+Send via F&F or the deal is off. Cool.,2,pushes_friends_and_family
+"Nahi bhai online payment nahi chalega, cash only aake le jao. Thanks.",1,refuses_protected
+No Goods & Services. Send as friend or find another seller....,2,pushes_friends_and_family
+"I accept PayPal G&S, go ahead and send the payment. Cool.",0,accepts_protected
+I only do face to face cash deals. Thanks.,1,refuses_protected
+I don't do online checkout. Cash upon collection only. ok?,1,refuses_protected
+"Pick up and cash only, take it or leave it. Thanks.",1,refuses_protected
+I decline PayPal. Bank deposit or physical cash only. buddy,1,refuses_protected
+F&F or no deal. I'm not giving 4% to PayPal. bro,2,pushes_friends_and_family
+"Yes, PayPal Goods and Services works for me. buddy",0,accepts_protected
+"Sure thing, please send the invoice or checkout link. thanks",0,accepts_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. bro",2,pushes_friends_and_family
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega. Cool.",2,pushes_friends_and_family
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. ok?,2,pushes_friends_and_family
+"Okay, let's do it via PayPal Goods. Drop the link here. bro",0,accepts_protected
+Works for me. Send the link across! Thanks.,0,accepts_protected
+Sounds fair. Send the checkout link and I will prepare the package. please,0,accepts_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. bro",0,accepts_protected
+F&F or no deal. I'm not giving 4% to PayPal. bro,2,pushes_friends_and_family
+I don't use PayPal or any online apps. buddy,1,refuses_protected
+"Why send as goods? Just choose family and friends, I have high ratings. Cool.",2,pushes_friends_and_family
+"I do not do payment links, strictly cash at exchange. ok?",1,refuses_protected
+Use F and F option on PayPal so neither of us pays unnecessary fees. bro,2,pushes_friends_and_family
+"Fine by me! As long as PayPal verifies the address, I'll ship today. buddy",0,accepts_protected
+Send via F&F or the deal is off....,2,pushes_friends_and_family
+Send it through PayPal friends option otherwise I cancel. Cool.,2,pushes_friends_and_family
+"Nahi bhai online payment nahi chalega, cash only aake le jao. ok?",1,refuses_protected
+I decline PayPal. Bank deposit or physical cash only.!,1,refuses_protected
+I only take payment as Friends and Family. Business payments get locked.!,2,pushes_friends_and_family
+"Chalega, Goods and Services kar do, tracking de dunga kal. bro",0,accepts_protected
+No PayPal. Cash only.,1,refuses_protected
+"Sorry, had too many issues with PayPal chargebacks, cash only. ok?",1,refuses_protected
+Sounds fair. Send the checkout link and I will prepare the package....,0,accepts_protected
+"Goods & Services is good with me, I will pack it right now. Let me know.",0,accepts_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. bro,2,pushes_friends_and_family
+"Please select 'Sending to a friend / Friends and Family', not paying for goods....",2,pushes_friends_and_family
+"Yes, PayPal Goods and Services works for me. bro",0,accepts_protected
+Only F&F otherwise PayPal takes a 3.5% cut and holds my money for 21 days. bro,2,pushes_friends_and_family
+"Make sure you tick Friends & Family when sending, not Goods. bro",2,pushes_friends_and_family
+"Okay, let's do it via PayPal Goods. Drop the link here.!",0,accepts_protected
+"Theek hai bhai, PayPal invoice bhej do main check kar leta hoon. ok?",0,accepts_protected
+I don't have PayPal configured. Cash only please. thanks,1,refuses_protected
+"Bhai Friends and Family se hi bhejna, business mat karna tax katega....",2,pushes_friends_and_family
+That's safe for both of us. Please share the payment link. thanks,0,accepts_protected
+"Don't send as G&S, send personal transfer so no fees apply. Let me know.",2,pushes_friends_and_family
+Only friends and family transfer accepted. I'm shipping right after. Let me know.,2,pushes_friends_and_family
+Select friends and family option on PayPal or I will refund immediately. please,2,pushes_friends_and_family
+Sounds fair. Send the checkout link and I will prepare the package. bro,0,accepts_protected
+I'm completely fine with Goods and Services. Send it over.,0,accepts_protected
+"Fine by me! As long as PayPal verifies the address, I'll ship today. Cool.",0,accepts_protected
+"Sure, I understand safety concerns. Send the payment link whenever you're ready. Thanks.",0,accepts_protected
+Approved! Send me the official link and I'll get it ready for dispatch. Thanks.,0,accepts_protected
+"Yes, PayPal Goods and Services works for me. Cool.",0,accepts_protected

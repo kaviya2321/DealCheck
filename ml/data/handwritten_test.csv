@@ -1,0 +1,31 @@
+text,label,category,notes
+"Buyer: Can I pay with PayPal Goods & Services? Seller: No my PayPal has business account limitation. Send to my brother's email via Friends and Family only.",1,scam,Brother account F&F excuse
+"Buyer: Is the camera available? Seller: Yes. I'm shipping from an overseas base. Send $200 via PayPal Friends and Family to lock shipping.",1,scam,Military/overseas base scam
+"Buyer: Let's meet at the police station lobby. Seller: Can't meet in person bro. Pay advance on Zelle or F&F and my courier delivers.",1,scam,Refusal to meet + advance payment
+"Buyer: Why do you want Friends and Family? Seller: Because PayPal takes 3.5% fee and I want full $400 in hand. Send as gift or no deal.",1,scam,Fee evasion demand
+"Buyer: Can I test the laptop before paying? Seller: Sure, meet me at the library on 4th street tomorrow at 3pm. You can run any diagnostics.",0,legit,In-person testing agreed
+"Buyer: Are you open to $300? Seller: Lowest I can do is $330. We can do PayPal Goods and Services if you want buyer protection.",0,legit,Protected payment offered by seller
+"Buyer: Bhai iPhone chahiye. Seller: Haan bhai mil jayega, pehle 2000 Google Pay ya F&F karo booking ke liye fir courier nikalega.",1,scam,Hinglish booking token advance
+"Buyer: Is this authentic? Seller: 100% authentic with original receipt and box. Meet me at the Apple Store and they can verify.",0,legit,Store verification agreed
+"Buyer: Can you send a timestamp? Seller: Don't waste my time with photos. Pay now via CashApp or I'm selling to next in line.",1,scam,Artificial urgency + no proof
+"Buyer: I generated a PayPal invoice. Seller: I only take Friends & Family. Invoice means tax reporting for me so I will cancel it.",1,scam,F&F tax avoidance excuse
+"Buyer: Does the guitar have any neck warping? Seller: None at all. Action is low and straight. You're welcome to play it before deciding.",0,legit,Transparent condition check
+"Buyer: Can I send deposit to hold until Friday? Seller: No need for deposit, just message me Friday morning and if it's still here it's yours.",0,legit,Honest seller no advance
+"Buyer: Can you ship with tracking? Seller: Yes, I will send FedEx tracking number as soon as PayPal Goods payment confirms.",0,legit,Legit shipping with G&S
+"Buyer: Seller says: 'My bank app is locked, pay via Steam gift card or crypto wallet'.",1,scam,Gift card / crypto redirect
+"Buyer: Hello! Seller: Send payment to friend_transfer@mail.com on PayPal as personal transfer so no fees apply.",1,scam,Personal transfer explicit push
+"Buyer: Can you do $150? Seller: $160 cash on pickup and it's a deal. Available this evening.",0,legit,Standard bargaining cash pickup
+"Buyer: Why is the price so cheap for RTX 4090? Seller: Moving out tomorrow morning! Need urgent cash, pay now via F&F for instant dispatch.",1,scam,Unrealistic discount + urgency
+"Buyer: Can I see the battery health screenshot? Seller: Sure, just uploaded to the chat. It's at 94%.",0,legit,Proof provided
+"Buyer: What payment do you accept? Seller: Cash or PayPal G&S only. I don't accept wire or unverified methods.",0,legit,Safe payment requirement
+"Buyer: Seller: 'I'll have my agent drop it off, but you have to pay the insurance fee via PayPal Friends first, which is refundable.'",1,scam,Advance courier insurance fee
+"Buyer: Still available? Seller: Yes, can meet outside Metro Station gate 2 between 1-5pm.",0,legit,Public place meetup
+"Buyer: Can we do Escrow? Seller: Use my private escrow link: secure-buyer-protect-hold.com/login and deposit funds.",1,scam,Phishing / fake escrow domain
+"Buyer: Is there any warranty left? Seller: Yes, 5 months manufacturer warranty remaining. I have the invoice from Amazon.",0,legit,Verifiable invoice
+"Buyer: Seller: 'Send via Friends and Family or add $50 extra for G&S fees'. Buyer: G&S fee is only 3%! Seller: My terms take it or leave it.",1,scam,Coercive fee penalty
+"Buyer: Can my friend pick it up? Seller: Sure, as long as payment is done in cash upon pickup or via protected invoice.",0,legit,Safe pickup
+"Buyer: Seller: 'I won a giveaway so selling cheap. Send $50 delivery fee first via crypto.'",1,scam,Giveaway delivery fee scam
+"Buyer: Can you do PayPal checkout? Seller: Yes, send me the PayPal payment link or invoice and I'll confirm receipt.",0,legit,Accepts buyer's PayPal link
+"Buyer: Are accessories included? Seller: Original cable and extra tips are included. No wall brick though.",0,legit,Clear item description
+"Buyer: Bhaiya G&S chalega na? Seller: Nahi bhai G&S me paisa atak jata hai, sirf F&F ya direct UPI chalega.",1,scam,Hinglish refusal of protected payment
+"Buyer: Let's meet at Starbucks. Seller: Sounds good, see you there at 11am.",0,legit,Simple safe exchange
